@@ -1,0 +1,1001 @@
+ID,ID DEPATAMENTO,DEPARTAMENTO,ID MUNICIPIO,MUNICIPIO,ID LOCALIDAD,LOCALIDAD,AÑO SERVICIO,MES SERVICIO,ENERGÍA ACTIVA,ENERGÍA REACTIVA,POTENCIA MÁXIMA,DÍA DE DEMANDA MÁXIMA,FECHA DE DEMANDA MÁXIMA,PROMEDIO DIARIO EN HORAS
+1232,0,cauca,19809,timbiqui,19809014,chacon (timbiqui - cauca),2023,2,3457,909,2576,lunes,2023-02-06T19:00,5.57
+3919,27,choco,27077,bajo baudo (pizarro),27077000,pizarro (bajo baudo (pizarro) - choco),2020,4,164425,62119,35660,lunes,2020-04-20T19:30,22.35
+3453,18,caqueta,18753,san vicente del caguan,18753009,puerto betania (san vicente del caguan - caqueta),2020,10,5015,1873,412,domingo,2020-10-04T19:00,5.18
+1942,27,choco,27800,unguia,27800001,titumate (unguia - choco),2022,5,17922,4439,10402,domingo,2022-05-01T19:15,8.17
+2454,91,amazonas,91001,leticia,91001000,leticia (leticia - amazonas),2020,12,164425,62119,35660,miercoles,2020-12-02T23:30,24.0
+2560,88,"archipielago de san andres, providencia y santa catalina",88564,providencia,88564000,providencia (providencia - archipielago de san andres y providencia),2021,9,164425,62119,35660,jueves,2021-09-16T21:15,24.0
+3138,18,caqueta,18753,san vicente del caguan,18753015,guayabal (san vicente del caguan - caqueta),2021,2,5869,3247,38,domingo,2021-02-21T23:00,7.13
+844,52,nariño,52250,el charco,52250007,san jose del tapaje (el charco - nariño),2023,8,11974,3440,80,lunes,2023-08-28T21:00,8.22
+4644,86,putumayo,86573,puerto leguizamo,86573009,piñuña negro,2025,3,4498,2570,384,sabado,2025-03-01T19:00,5.44
+292,94,guainia,94001,inirida,94001966,laguna colorada alta (inirida - guainia),2024,1,7973,286,2633,martes,2024-01-02T18:15,15.43
+2537,52,nariño,52835,san andres de tumaco,52835055,bocas de curay (tumaco - nariño),2021,10,9440,2821,576,domingo,2021-10-31T23:45,7.29
+1025,27,choco,27372,jurado,27372000,jurado (jurado - choco),2023,5,164425,62119,34304,viernes,2023-05-12T19:45,23.55
+4634,94,guainia,94001,inirida,94001905,chorro bocon,2025,2,4790,7,1736,jueves,2025-02-27T20:00,16.36
+3468,19,cauca,19809,timbiqui,19809008,santa maria (timbiqui - cauca),2020,10,17565,6885,7776,martes,2020-10-06T20:00,9.39
+4631,91,amazonas,91540,puerto nariño,91540000,puerto nariño,2025,2,116955,36836,2624,martes,2025-02-04T14:30,24.0
+1245,27,choco,27077,bajo baudo (pizarro),27077016,siviru (bajo baudo - choco),2023,2,6539,2563,3968,domingo,2023-02-15T19:15,8.27
+24,27,choco,27077,bajo baudo,27077029,firme de usarga (bajo baudo (pizarro) - choco),2024,6,906,394,721,domingo,2024-06-30T19:15,5.51
+1184,52,nariño,52250,el charco,52250023,bazan (el charco - nariño),2023,3,23633,9050,1056,martes,2023-03-14T19:15,9.07
+2260,27,choco,27425,medio atrato (bete),27425008,san roque (medio atrato (bete) - choco),2022,1,4040,1287,2443,sabado,2022-01-22T19:15,6.38
+1057,99,vichada,99001,puerto carreño,99001000,puerto carreño (puerto carreño - vichada),2023,5,164425,62119,35660,lunes,2023-05-08T14:30,23.52
+3159,27,choco,27075,bahia solano (mutis),27075000,ciudad mutis (bahia solano - choco),2021,2,164425,62119,35660,jueves,2021-02-25T19:45,23.58
+3889,99,vichada,99001,puerto carreño,99001002,casuarito (puerto carreño - vichada),2020,5,25270,14477,1232,martes,2020-05-12T19:45,8.52
+3242,27,choco,27077,bajo baudo (pizarro),27077905,buenavista (bajo baudo (pizarro) - choco),2021,1,5223,675,36,sabado,2021-01-02T16:00,7.43
+3127,91,amazonas,91001,leticia,91001000,leticia (leticia - amazonas),2021,2,164425,62119,35660,lunes,2021-02-15T15:15,24.0
+4082,27,choco,27495,nuqui,27495000,nuqui (nuqui - choco),2020,2,164425,60988,5273,martes,2020-02-18T20:15,19.0
+34,27,choco,27425,medio atrato,27425000,bete (medio atrato - choco),2024,6,16199,8094,64,miercoles,2024-06-19T12:00,11.39
+4119,99,vichada,99524,la primavera,99524000,la primavera (la primavera - vichada),2020,2,164425,62119,7406,miercoles,2020-02-26T18:45,24.0
+2804,52,nariño,52835,san andres de tumaco,52835016,pital de la costa (tumaco - nariño),2021,7,19896,11314,100,sabado,2021-07-31T00:00,8.45
+2300,88,"archipielago de san andres, providencia y santa catalina",88001,san andres,88001000,san andres (san andres - archipielago de san andres y providencia),2021,12,164425,62119,35660,jueves,2021-12-30T15:45,23.59
+2585,27,choco,27006,acandi,27006003,capurgana (acandi - choco),2021,9,164425,62119,35660,viernes,2021-09-17T21:15,19.26
+1174,27,choco,27001,quibdo,27001029,tagachi (quibdo - choco),2023,3,9585,3426,5386,martes,2023-03-07T13:30,8.12
+2906,27,choco,27075,bahia solano (mutis),27075000,ciudad mutis (bahia solano - choco),2021,5,164425,62119,35660,miercoles,2021-05-26T19:30,23.54
+4405,47,magdalena,47189,cienaga,47189018,palmor (cienaga - magdalena),2024,11,108779,49619,22298,sabado,2024-11-30T18:00,21.71
+1103,27,choco,27800,unguia,27800000,unguia (unguia - choco),2023,4,164425,62119,35660,domingo,2023-04-02T19:15,22.12
+4089,94,guainia,94001,inirida,94001000,inirida (inirida - guainia),2020,2,164425,62119,35660,lunes,2020-02-17T14:45,23.56
+228,97,vaupes,97161,caruru,97161000,caruru (caruru - vaupes),2024,5,0,0,0,miercoles,2024-05-01T12:00,0.0
+4339,52,nariño,52696,santa barbara,52696014,la ensenada (santa barbara - nariño),2024,10,3437,1564,20,martes,2024-10-01T19:45,7.0
+4507,13,bolivar,13001,cartagena de indias,13001007,isla fuerte (cartagena de indias - bolivar),2024,9,31801,14619,2535,sabado,2024-09-14T22:15,5.35
+3182,50,meta,50325,mapiripan,50325000,mapiripan (mapiripan - meta),2021,2,140160,59411,31108,miercoles,2021-02-10T18:45,23.36
+3935,94,guainia,94001,inirida,94001000,inirida (inirida - guainia),2020,4,164425,62119,35660,jueves,2020-04-16T14:30,24.0
+539,27,choco,27075,bahia solano,27075002,el valle (bahia solano - choco),2023,12,164425,62119,35660,viernes,2023-12-22T19:15,23.54
+1486,27,choco,27495,nuqui,27495912,comunidad indigena de pangui - el yucal (nuqui - choco),2022,11,7166,1620,1155,lunes,2022-11-07T15:00,22.52
+4285,18,caqueta,18753,san vicente del caguan,18753009,puerto betania (san vicente del caguan - caqueta),2024,10,4898,1658,392,martes,2024-10-22T19:30,5.19
+4621,97,vaupes,97161,caruru,97161000,caruru,2025,1,34438,5807,9002,miercoles,2025-01-22T16:00,16.98
+2695,94,guainia,94001,inirida,94001000,inirida (inirida - guainia),2021,8,164425,62119,35660,martes,2021-08-24T14:45,23.51
+4333,52,nariño,52390,la tola,52390003,la vigia de la mar (la tola - nariño),2024,10,4738,2344,2956,viernes,2024-10-18T19:45,7.68
+231,99,vichada,99001,puerto carreño,99001000,puerto carreño (puerto carreño - vichada),2024,5,164425,62119,5060,viernes,2024-05-03T14:15,23.47
+1724,52,nariño,52390,la tola,52390013,amarales (la tola - nariño),2022,8,5810,2533,4074,sabado,2022-08-20T17:15,6.59
+1045,52,nariño,52696,santa barbara (iscuande),52696014,la ensenada (santa barbara (iscuande) - nariño),2023,5,3299,5844,2406,miercoles,2023-05-03T20:15,5.48
+2380,99,vichada,99001,puerto carreño,99001002,casuarito (puerto carreño - vichada),2021,12,38120,14660,10754,viernes,2021-12-10T19:15,14.16
+2255,27,choco,27099,bojaya (bellavista),27099002,la loma de bojaya (bojaya (bellavista) - choco),2022,1,13026,6487,608,lunes,2022-01-31T19:15,9.3
+1371,52,nariño,52490,olaya herrera,52490913,boca de prieta (olaya herrera - nariño),2023,1,2697,750,1634,jueves,2023-01-26T19:15,6.15
+3536,19,cauca,19318,guapi,19318008,limones (guapi - cauca),2020,9,8620,2316,6668,sabado,2020-09-19T21:00,5.09
+1731,52,nariño,52390,la tola,52390003,la vigia de la mar (la tola - nariño),2022,8,5966,2380,3392,lunes,2022-08-01T19:15,8.09
+297,52,nariño,52250,el charco,52250016,alteron - uribe uribe (el charco - nariño),2024,1,114,61,6,domingo,2024-01-23T19:00,0.42
+3277,99,vichada,99773,cumaribo,99773000,cumaribo (cumaribo - vichada),2021,1,164425,62119,6094,miercoles,2021-01-13T18:00,20.24
+4637,95,guaviare,95001,san jose del guaviare,95001012,cachicamo,2025,2,10295,4350,3861,domingo,2025-02-16T19:30,13.41
+1176,27,choco,27615,riosucio,27615930,peñas blancas (riosucio - choco),2023,3,19,7,179,viernes,2023-03-31T20:15,0.0
+4496,76,valle del cauca,76109,buenaventura,76109032,san francisco naya (buenaventura - valle del cauca),2024,12,8964,3640,3242,lunes,2024-12-02T12:00,11.83
+323,13,bolivar,13001,cartagena de indias,13001037,isla mucura (cartagena de indias - bolivar),2024,2,5309,2189,2237,lunes,2024-02-19T21:30,10.51
+3980,85,casanare,85430,trinidad,85430001,bocas del pauto (trinidad - casanare),2020,3,13266,7187,10016,martes,2020-03-03T18:30,5.25
+2961,13,bolivar,13001,cartagena de indias,13001037,isla mucura (cartagena de indias - bolivar),2021,4,6886,2794,2032,viernes,2021-04-02T23:45,15.03
+1198,52,nariño,52696,santa barbara (iscuande),52696022,secadero (santa barbara (iscuande) - nariño),2023,3,3097,1460,1498,jueves,2023-03-23T19:15,9.09
+1021,27,choco,27077,bajo baudo (pizarro),27077916,terron (bajo baudo - choco),2023,5,5110,2362,2983,sabado,2023-05-13T12:45,8.2
+1048,86,putumayo,86573,puerto leguizamo,86573000,puerto leguizamo (puerto leguizamo - putumayo),2023,5,164425,62119,35660,martes,2023-05-02T18:45,23.17
+1794,94,guainia,94001,inirida,94001000,inirida (inirida - guainia),2022,7,164425,62119,34408,lunes,2022-07-11T15:15,23.87
+3701,19,cauca,19809,timbiqui,19809023,puerto saija (timbiqui - cauca),2020,7,17267,6008,15946,viernes,2020-07-31T18:45,4.05
+4429,99,vichada,99001,puerto carreño,99001000,puerto carreño (puerto carreño - vichada),2024,11,164425,62119,35660,jueves,2024-11-07T13:15,23.98
+3713,27,choco,27099,bojaya (bellavista),27099005,napipi (bojaya (bellavista) - choco),2020,7,8735,2327,608,viernes,2020-07-31T19:30,5.3
+587,97,vaupes,97666,taraira,97666000,taraira (taraira - vaupes),2023,12,34421,10138,12302,viernes,2023-12-01T13:15,11.2
+70,76,valle del cauca,76109,buenaventura,76109028,puerto merizalde (buenaventura - valle del cauca),2024,6,103108,35909,2126,lunes,2024-06-10T19:45,21.26
+351,27,choco,27099,bojaya,27099005,napipi (bojaya - choco),2024,2,11589,3838,672,sabado,2024-02-24T19:15,7.43
+3236,27,choco,27006,acandi,27006000,acandi (acandi - choco),2021,1,164425,62119,35660,miercoles,2021-01-20T21:15,23.24
+3435,86,putumayo,86573,puerto leguizamo,86573009,piñuña negro (puerto leguizamo - putumayo),2020,11,3718,2067,256,domingo,2020-11-22T22:00,6.38
+2417,27,choco,27075,bahia solano (mutis),27075002,el valle (bahia solano - choco),2021,11,149429,62119,31205,jueves,2021-11-11T19:00,23.48
+1076,19,cauca,19418,lopez de micay,19418012,san antonio de chuare (lopez de micay - cauca),2023,4,6039,1778,4499,jueves,2023-04-20T19:00,5.44
+3766,18,caqueta,18753,san vicente del caguan,18753009,puerto betania (san vicente del caguan - caqueta),2020,6,4664,1944,3896,jueves,2020-06-25T19:30,7.11
+27,27,choco,27077,bajo baudo,27077000,pizarro (bajo baudo - choco),2024,6,164425,62119,4488,lunes,2024-06-24T19:30,23.05
+2348,27,choco,27800,unguia,27800001,balboa (unguia - choco),2021,12,20287,8071,843,viernes,2021-12-31T18:45,9.54
+1462,19,cauca,19318,guapi,19318008,limones (guapi - cauca),2022,11,8020,3832,3863,martes,2022-11-29T20:00,8.59
+3321,27,choco,27495,nuqui,27495001,arusi (nuqui - choco),2020,12,9074,3826,496,miercoles,2020-12-16T19:00,7.45
+4587,97,vaupes,97161,caruru,97161000,caruru (caruru - vaupes),2024,9,35746,8582,9214,martes,2024-09-24T18:30,17.22
+3692,18,caqueta,18150,cartagena del chaira,18150001,remolino del caguan (cartagena del chaira - caqueta),2020,7,15268,7834,7807,sabado,2020-07-18T19:45,8.1
+694,95,guaviare,95200,miraflores,95200000,miraflores (miraflores - guaviare),2023,10,96608,30631,2244,lunes,2023-10-30T18:00,18.42
+2841,19,cauca,19418,lopez de micay,19418019,zaragoza (lopez de micay - cauca),2021,6,11364,5167,6125,viernes,2021-06-25T18:45,9.09
+4438,18,caqueta,18150,cartagena del chaira,18150002,santa fe del caguan (cartagena del chaira - caqueta),2024,12,3660,1435,3952,jueves,2024-12-05T18:45,3.92
+4646,88,archipielago de san andres y providencia,88564,providencia,88564000,providencia,2025,3,164425,62119,35660,miercoles,2025-03-26T21:30,23.99
+626,27,choco,27250,el litoral del san juan,27250000,santa genoveva de docordo (el litoral del san juan - choco),2023,11,86797,46316,21912,viernes,2023-11-03T12:15,17.52
+3595,97,vaupes,97001,mitu,97001000,mitu (mitu - vaupes),2020,9,164425,62119,35660,viernes,2020-09-18T23:30,24.0
+158,97,vaupes,97001,mitu,97001000,mitu (mitu - vaupes),2024,7,164425,62119,35660,viernes,2024-07-05T12:15,23.58
+4070,27,choco,27025,alto baudo (pie de pato),27025000,ciudad baudo - pie de pato (alto baudo - choco),2020,2,36727,9888,14318,domingo,2020-02-23T19:30,15.04
+1628,27,choco,27250,el litoral del san juan,27250002,cucurrupi (el litoral del san juan - choco),2022,9,2336,709,1958,lunes,2022-09-05T18:45,4.91
+316,97,vaupes,97666,taraira,97666000,taraira (taraira - vaupes),2024,1,35739,10778,12074,viernes,2024-01-26T12:15,12.26
+3309,27,choco,27025,alto baudo (pie de pato),27025000,ciudad baudo - pie de pato (alto baudo - choco),2020,12,45363,12409,10842,domingo,2020-12-07T00:15,23.43
+585,97,vaupes,97161,caruru,97161000,caruru (caruru - vaupes),2023,12,22348,7080,9161,lunes,2023-12-04T18:15,10.39
+3769,19,cauca,19418,lopez de micay,19418019,zaragoza (lopez de micay - cauca),2020,6,7756,3427,4883,domingo,2020-06-21T20:30,7.18
+2529,52,nariño,52250,el charco,52250005,las mercedes (el charco - nariño),2021,10,1981,608,1283,viernes,2021-10-01T21:00,6.14
+4504,91,amazonas,91798,tarapaca (anm),91798000,tarapaca (tarapaca (anm) - amazonas),2024,9,27342,12153,10359,domingo,2024-09-15T13:30,10.37
+3921,27,choco,27099,bojaya (bellavista),27099002,la loma de bojaya (bojaya (bellavista) - choco),2020,4,12637,5003,736,martes,2020-04-14T18:45,7.56
+3289,18,caqueta,18753,san vicente del caguan,18753002,guacamayas (san vicente del caguan - caqueta),2020,12,13318,5565,4397,jueves,2020-12-31T19:45,18.35
+1843,19,cauca,19809,timbiqui,19809003,los brazos (timbiqui - cauca),2022,6,7685,1580,41,miercoles,2022-06-01T18:00,7.43
+3300,19,cauca,19418,lopez de micay,19418019,zaragoza (lopez de micay - cauca),2020,12,11750,5418,5008,jueves,2020-12-24T20:30,9.41
+4330,52,nariño,52250,el charco,52250007,san jose del tapaje (el charco - nariño),2024,10,9108,1826,88,martes,2024-10-01T19:45,5.58
+3540,19,cauca,19418,lopez de micay,19418012,san antonio de chuare (lopez de micay - cauca),2020,9,9249,2948,559,lunes,2020-09-28T19:00,7.21
+1104,94,guainia,94343,barrancominas,94343000,barrancominas (barrancominas - guainia),2023,4,51123,12598,17858,jueves,2023-04-13T18:15,15.56
+3850,27,choco,27099,bojaya (bellavista),27099000,bellavista (bojaya (bellavista) - choco),2020,5,83271,31079,23721,martes,2020-05-26T18:45,16.02
+2541,52,nariño,52696,santa barbara (iscuande),52696022,secadero (santa barbara (iscuande) - nariño),2021,10,3080,2233,1294,sabado,2021-10-30T00:15,9.51
+3407,94,guainia,94343,barrancominas,94343000,barrancominas (barrancominas - guainia),2020,11,46450,16212,1854,jueves,2020-11-19T18:15,10.38
+3154,19,cauca,19809,timbiqui,19809008,santa maria (timbiqui - cauca),2021,2,14810,6204,7366,martes,2021-02-02T19:30,9.13
+2233,19,cauca,19418,lopez de micay,19418009,noanamito (lopez de micay - cauca),2022,1,6526,1990,44,domingo,2022-01-30T19:15,6.23
+1746,99,vichada,99773,cumaribo,99773000,cumaribo (cumaribo - vichada),2022,8,164425,62119,35660,jueves,2022-08-04T14:30,23.96
+2579,19,cauca,19809,timbiqui,19809014,chacon (timbiqui - cauca),2021,9,38,6,1456,jueves,2021-09-09T15:00,0.06
+2843,19,cauca,19809,timbiqui,19809010,comunidad de chete (timbiqui - cauca),2021,6,4504,1712,3616,jueves,2021-06-03T19:15,5.06
+2312,19,cauca,19418,lopez de micay,19418011,dos quebradas rio naya (lopez de micay - cauca),2021,12,5160,2184,295,miercoles,2021-12-29T18:00,7.12
+3822,91,amazonas,91001,leticia,91001000,leticia (leticia - amazonas),2020,5,164425,62119,35660,lunes,2020-05-11T18:30,8.52
+417,27,choco,27006,acandi,27006003,capurgana (acandi - choco),2024,3,164425,62119,35660,domingo,2024-03-24T14:45,18.25
+241,18,caqueta,18150,cartagena del chaira,18150002,santa fe del caguan (cartagena del chaira - caqueta),2024,1,4322,1966,4132,miercoles,2024-01-31T19:15,4.13
+3245,27,choco,27099,bojaya (bellavista),27099002,la loma de bojaya (bojaya (bellavista) - choco),2021,1,12544,5718,576,miercoles,2021-01-27T19:15,9.19
+374,52,nariño,52250,el charco,52250003,bolivar - san pedro (el charco - nariño),2024,2,395,375,2778,miercoles,2024-02-07T19:45,0.5
+2756,19,cauca,19809,timbiqui,19809007,san jose (timbiqui - cauca),2021,7,7033,4386,4025,martes,2021-07-27T19:45,6.36
+2576,19,cauca,19418,lopez de micay,19418012,san antonio de chuare (lopez de micay - cauca),2021,9,8156,2975,5203,viernes,2021-09-17T18:45,6.37
+2765,27,choco,27075,bahia solano (mutis),27075002,el valle (bahia solano - choco),2021,7,159362,62119,33845,jueves,2021-07-22T19:30,23.46
+2406,19,cauca,19418,lopez de micay,19418019,zaragoza (lopez de micay - cauca),2021,11,6325,2653,5728,martes,2021-11-02T19:00,5.03
+4451,27,choco,27077,bajo baudo,27077002,belen de docampado (bajo baudo - choco),2024,12,8896,3034,3855,viernes,2024-12-27T10:45,10.7
+1019,27,choco,27077,bajo baudo (pizarro),27077011,piliza (bajo baudo (pizarro) - choco),2023,5,4214,1112,288,miercoles,2023-05-03T19:00,6.0
+1117,52,nariño,52835,san andres de tumaco,52835055,bocas de curay (tumaco - nariño),2023,4,5522,2177,552,sabado,2023-04-01T19:00,4.3
+3668,52,nariño,52696,santa barbara (iscuande),52696017,santa rita (santa barbara (iscuande) - nariño),2020,8,5617,3029,3472,miercoles,2020-08-05T20:45,6.3
+3755,99,vichada,99624,santa rosalia,99624000,santa rosalia (santa rosalia - vichada),2020,7,114319,57609,32736,lunes,2020-07-20T20:30,15.49
+1503,52,nariño,52390,la tola,52390009,mulatos (la tola - nariño),2022,11,5440,3007,3306,jueves,2022-11-24T18:15,8.1
+3419,52,nariño,52390,la tola,52390003,la vigia de la mar (la tola - nariño),2020,11,5724,2861,2988,sabado,2020-11-21T00:30,8.19
+3882,86,putumayo,86573,puerto leguizamo,86573000,puerto leguizamo (puerto leguizamo - putumayo),2020,5,164425,62119,35660,jueves,2020-05-28T15:00,24.0
+3527,5,antioquia,5873,vigia del fuerte,5873000,vigia del fuerte (vigia del fuerte - antioquia),2020,9,97855,23445,27034,lunes,2020-09-07T13:30,13.44
+9,18,caqueta,18753,san vicente del caguan,18753002,guacamayas (san vicente del caguan - caqueta),2024,6,8770,3282,3235,sabado,2024-06-29T19:45,14.56
+2711,52,nariño,52490,olaya herrera,52490913,boca de prieta (olaya herrera - nariño),2021,8,3546,899,1963,martes,2021-08-10T18:15,7.9
+3634,27,choco,27099,bojaya (bellavista),27099000,bellavista (bojaya (bellavista) - choco),2020,8,94135,34964,22061,lunes,2020-08-31T19:45,19.28
+1591,99,vichada,99524,la primavera,99524000,la primavera (la primavera - vichada),2022,10,164425,62119,35660,miercoles,2022-10-26T14:30,23.51
+4364,18,caqueta,18753,san vicente del caguan,18753009,puerto betania (san vicente del caguan - caqueta),2024,11,5952,1949,4116,viernes,2024-11-22T19:00,6.6
+3618,19,cauca,19418,lopez de micay,19418038,isla de gallo (lopez de micay - cauca),2020,8,2760,1013,2461,domingo,2020-08-09T19:30,4.34
+1118,52,nariño,52696,santa barbara (iscuande),52696014,la ensenada (santa barbara (iscuande) - nariño),2023,4,3299,5747,2544,miercoles,2023-04-05T19:15,5.54
+2922,27,choco,27001,quibdo,27001029,tagachi (quibdo - choco),2021,5,9391,3091,4104,domingo,2021-05-10T00:45,8.41
+3204,86,putumayo,86573,puerto leguizamo,86573000,puerto leguizamo (puerto leguizamo - putumayo),2021,2,164425,62119,35660,miercoles,2021-02-10T14:45,24.0
+4374,27,choco,27075,bahia solano,27075000,ciudad mutis (bahia solano - choco),2024,11,164425,62119,35660,jueves,2024-11-14T14:15,23.77
+498,52,nariño,52835,san andres de tumaco,52835217,san juan de la costa (san andres de tumaco - nariño),2024,4,18842,6954,112,viernes,2024-04-05T19:00,7.44
+101,27,choco,27006,acandi,27006000,acandi (acandi - choco),2024,7,164425,62119,35660,sabado,2024-07-13T21:45,19.03
+3426,52,nariño,52835,san andres de tumaco,52835012,chajal (tumaco - nariño),2020,11,11846,4165,13693,sabado,2020-11-28T19:15,3.24
+1481,27,choco,27250,el litoral del san juan,27250002,cucurrupi (el litoral del san juan - choco),2022,11,2503,770,1814,martes,2022-11-01T18:15,5.43
+3234,19,cauca,19809,timbiqui,19809026,los brazos (timbiqui - cauca),2021,1,8283,1586,4567,sabado,2021-01-09T19:30,6.51
+4051,18,caqueta,18150,cartagena del chaira,18150001,remolino del caguan (cartagena del chaira - caqueta),2020,2,15525,7062,9037,sabado,2020-02-01T18:45,8.1
+1819,99,vichada,99001,puerto carreño,99001002,casuarito (puerto carreño - vichada),2022,7,23136,62119,10771,viernes,2022-07-22T11:45,8.68
+4657,97,vaupes,97161,caruru,97161000,caruru,2025,3,38728,6806,953,martes,2025-03-25T18:30,17.06
+1573,52,nariño,52520,francisco pizarro,52520013,san pedro del vino (francisco pizarro - nariño),2022,10,4265,2442,2806,sabado,2022-10-01T19:00,6.37
+472,19,cauca,19809,timbiqui,19809009,santa rosa de saija (timbiqui - cauca),2024,4,2844,760,2045,miercoles,2024-04-17T19:30,5.44
+4202,99,vichada,99524,la primavera,99524000,la primavera (la primavera - vichada),2020,1,164425,62119,35660,jueves,2020-01-30T19:45,24.0
+2381,99,vichada,99001,puerto carreño,99001000,puerto carreño (puerto carreño - vichada),2021,12,164425,62119,35660,lunes,2021-12-06T14:00,24.0
+2092,27,choco,27372,jurado,27372000,jurado (jurado - choco),2022,3,164425,62119,33696,miercoles,2022-03-23T19:15,23.53
+829,27,choco,27001,quibdo,27001029,tagachi (quibdo - choco),2023,8,0,0,0,martes,2023-08-01T00:00,0.0
+1002,18,caqueta,18753,san vicente del caguan,18753009,puerto betania (san vicente del caguan - caqueta),2023,5,975,407,3624,lunes,2023-05-01T19:30,1.11
+791,91,amazonas,91001,leticia,91001000,leticia (leticia - amazonas),2023,8,164425,62119,35660,martes,2023-08-22T14:45,24.0
+1375,86,putumayo,86573,puerto leguizamo,86573009,piñuña negro (puerto leguizamo - putumayo),2023,1,3600,1998,256,sabado,2023-01-14T17:15,6.31
+180,27,choco,27077,bajo baudo,27077026,guineal (bajo baudo (pizarro) - choco),2024,5,4866,1370,3738,viernes,2024-05-17T19:00,6.13
+3156,27,choco,27006,acandi,27006003,capurgana (acandi - choco),2021,2,164425,62119,35660,viernes,2021-02-19T21:45,20.1
+4023,52,nariño,52835,san andres de tumaco,52835055,bocas de curay (tumaco - nariño),2020,3,8473,1544,552,sabado,2020-03-21T20:00,6.14
+1331,27,choco,27077,bajo baudo (pizarro),27077016,siviru (bajo baudo - choco),2023,1,7301,2902,4014,sabado,2023-01-07T19:15,8.34
+1685,19,cauca,19809,timbiqui,19809010,comunidad de chete (timbiqui - cauca),2022,8,4164,1612,2586,domingo,2022-08-21T19:30,6.27
+757,27,choco,27800,unguia,27800000,unguia (unguia - choco),2023,9,164425,62119,35660,sabado,2023-09-30T19:45,21.57
+2628,52,nariño,52835,san andres de tumaco,52835016,pital de la costa (tumaco - nariño),2021,9,12194,6995,96,sabado,2021-09-18T13:00,5.24
+3166,27,choco,27099,bojaya (bellavista),27099005,napipi (bojaya (bellavista) - choco),2021,2,9081,2828,608,domingo,2021-02-28T18:45,5.54
+3529,88,"archipielago de san andres, providencia y santa catalina",88001,san andres,88001000,san andres (san andres - archipielago de san andres y providencia),2020,9,164425,62119,35660,martes,2020-09-22T14:45,24.0
+4570,52,nariño,52390,la tola,52390016,san pablo del mar (la tola - nariño),2024,9,5431,1953,2522,viernes,2024-09-27T18:45,9.43
+4087,27,choco,27800,unguia,27800000,unguia (unguia - choco),2020,2,164425,62119,7876,sabado,2020-02-15T19:15,15.56
+3053,18,caqueta,18753,san vicente del caguan,18753009,puerto betania (san vicente del caguan - caqueta),2021,3,5384,2143,4424,sabado,2021-03-27T20:00,5.2
+200,27,choco,27800,unguia,27800005,titumate (unguia - choco),2024,5,16923,4450,7674,jueves,2024-05-30T20:30,9.26
+3470,27,choco,27025,alto baudo (pie de pato),27025000,ciudad baudo - pie de pato (alto baudo - choco),2020,10,41592,11042,12672,miercoles,2020-10-14T19:00,20.29
+502,76,valle del cauca,76109,buenaventura,76109032,san francisco naya (buenaventura - valle del cauca),2024,4,6325,2599,3363,sabado,2024-04-27T11:45,8.07
+3838,19,cauca,19809,timbiqui,19809010,comunidad de chete (timbiqui - cauca),2020,5,6822,1993,4186,miercoles,2020-05-06T18:45,6.29
+622,27,choco,27077,bajo baudo,27077008,orpua (bajo baudo - choco),2023,11,1020,486,676,lunes,2023-11-27T18:45,8.24
+2489,19,cauca,19418,lopez de micay,19418015,san isidro (lopez de micay - cauca),2021,10,834,390,573,lunes,2021-10-04T18:00,6.01
+3037,99,vichada,99524,la primavera,99524000,la primavera (la primavera - vichada),2021,4,164425,62119,35660,viernes,2021-04-23T19:15,23.22
+4430,91,amazonas,91001,leticia,91001000,leticia (leticia - amazonas),2024,11,164425,62119,35660,viernes,2024-11-01T14:30,24.0
+1193,52,nariño,52427,magüi,52427013,la loma (magüi - nariño),2023,3,775,351,1546,lunes,2023-03-20T18:45,3.33
+4324,94,guainia,94001,inirida,94001000,inirida (inirida - guainia),2024,10,164425,62119,35660,lunes,2024-10-21T14:45,24.0
+1893,97,vaupes,97001,mitu,97001000,mitu (mitu - vaupes),2022,6,164425,62119,26453,lunes,2022-06-06T12:00,24.0
+3168,27,choco,27250,el litoral del san juan,27250000,santa genoveva de docordo (el litoral del san juan - choco),2021,2,64914,32836,17503,lunes,2021-02-16T00:45,17.01
+2195,52,nariño,52390,la tola,52390003,la vigia de la mar (la tola - nariño),2022,2,5427,2153,316,sabado,2022-02-06T00:30,8.29
+643,52,nariño,52250,el charco,52250022,el cuil pueblo nuevo (el charco - nariño),2023,11,5848,2600,3007,lunes,2023-11-20T19:00,7.41
+136,52,nariño,52250,el charco,52250005,las mercedes (el charco - nariño),2024,7,1211,851,88,sabado,2024-07-06T21:30,5.37
+253,19,cauca,19418,lopez de micay,19418019,zaragoza (lopez de micay - cauca),2024,1,4771,1732,449,sabado,2024-01-27T20:00,4.03
+388,76,valle del cauca,76109,buenaventura,76109034,san isidro - calima (buenaventura - valle del cauca),2024,2,1189,385,127,domingo,2024-02-04T13:15,4.13
+3656,52,nariño,52390,la tola,52390009,mulatos (la tola - nariño),2020,8,4135,2263,3549,lunes,2020-08-31T18:30,6.18
+2504,27,choco,27077,bajo baudo (pizarro),27077011,piliza (bajo baudo (pizarro) - choco),2021,10,5670,6342,32,sabado,2021-10-02T19:45,7.1
+1239,27,choco,27025,alto baudo (pie de pato),27025000,ciudad baudo - pie de pato (alto baudo - choco),2023,2,48164,15826,1401,martes,2023-07-02T19:00,23.19
+30,27,choco,27099,bojaya,27099005,napipi (bojaya - choco),2024,6,9331,3096,608,sabado,2024-06-01T19:00,6.2
+4121,99,vichada,99001,puerto carreño,99001000,puerto carreño (puerto carreño - vichada),2020,2,164425,62119,35660,martes,2020-02-18T14:15,24.0
+2302,13,bolivar,13001,cartagena de indias,13001037,isla mucura (cartagena de indias - bolivar),2021,12,6715,2639,2064,miercoles,2021-12-09T00:30,15.17
+3881,86,putumayo,86573,puerto leguizamo,86573009,piñuña negro (puerto leguizamo - putumayo),2020,5,2729,1322,224,domingo,2020-05-31T21:15,5.07
+3139,18,caqueta,18753,san vicente del caguan,18753009,puerto betania (san vicente del caguan - caqueta),2021,2,4956,1989,4512,sabado,2021-02-13T20:00,5.35
+3875,52,nariño,52835,san andres de tumaco,52835055,bocas de curay (tumaco - nariño),2020,5,8890,1549,528,domingo,2020-05-03T23:15,7.05
+1721,50,meta,50325,mapiripan,50325000,mapiripan (mapiripan - meta),2022,8,162689,62119,33484,martes,2022-08-16T18:45,23.8
+3605,5,antioquia,5873,vigia del fuerte,5873001,san antonio de padua (vigia del fuerte - antioquia),2020,8,3999,1456,3251,jueves,2020-08-13T18:45,4.54
+677,27,choco,27075,bahia solano,27075002,el valle (bahia solano - choco),2023,10,164425,62119,35660,jueves,2023-10-12T19:15,23.46
+1439,52,nariño,52696,santa barbara (iscuande),52696022,secadero (santa barbara (iscuande) - nariño),2022,12,2985,1264,1406,viernes,2022-12-02T18:30,9.19
+1757,13,bolivar,13001,cartagena,13001037,isla mucura (cartagena - bolivar),2022,7,7101,62119,2285,sabado,2022-07-09T23:00,14.75
+3354,76,valle del cauca,76109,buenaventura,76109032,san francisco naya (buenaventura - valle del cauca),2020,12,5242,2668,344,jueves,2020-12-24T20:45,6.14
+2629,52,nariño,52835,san andres de tumaco,52835217,san juan de la costa (san andres de tumaco - nariño),2021,9,23581,8294,1472,sabado,2021-09-18T18:45,7.45
+3909,19,cauca,19809,timbiqui,19809010,comunidad de chete (timbiqui - cauca),2020,4,5447,1571,4221,viernes,2020-04-17T19:15,5.06
+890,27,choco,27077,bajo baudo,27077000,pizarro (bajo baudo - choco),2023,7,164425,62119,35660,martes,2023-07-18T19:45,22.13
+2802,52,nariño,52490,olaya herrera,52490913,boca de prieta (olaya herrera - nariño),2021,7,3654,996,1925,viernes,2021-07-16T19:45,7.11
+2405,19,cauca,19418,lopez de micay,19418015,san isidro (lopez de micay - cauca),2021,11,832,396,586,martes,2021-11-09T17:30,6.17
+80,18,caqueta,18753,san vicente del caguan,18753002,guacamayas (san vicente del caguan - caqueta),2024,5,8538,3679,3437,lunes,2024-05-13T18:45,12.26
+872,13,bolivar,13001,cartagena de indias,13001037,isla mucura (cartagena de indias - bolivar),2023,7,7284,2921,2314,miercoles,2023-07-05T22:30,13.44
+1398,18,caqueta,18150,cartagena del chaira,18150002,santa fe del caguan (cartagena del chaira - caqueta),2022,12,3691,1846,396,sabado,2022-12-31T19:30,3.41
+1028,27,choco,27495,nuqui,27495912,comunidad indigena de pangui - el yucal (nuqui - choco),2023,5,5605,1605,1142,miercoles,2023-05-10T14:45,18.3
+3539,19,cauca,19418,lopez de micay,19418009,noanamito (lopez de micay - cauca),2020,9,7165,2753,44,lunes,2020-09-21T00:15,8.27
+4336,52,nariño,52473,mosquera,52473010,el bajito de echandia (mosquera - nariño),2024,10,3162,1164,1529,martes,2024-10-22T11:45,10.36
+1043,52,nariño,52490,olaya herrera,52490913,boca de prieta (olaya herrera - nariño),2023,5,2795,782,1567,martes,2023-05-02T19:00,6.52
+4112,86,putumayo,86573,puerto leguizamo,86573000,puerto leguizamo (puerto leguizamo - putumayo),2020,2,164425,62119,35660,martes,2020-02-04T14:45,20.05
+473,27,choco,27006,acandi,27006000,acandi (acandi - choco),2024,4,164425,62119,35660,viernes,2024-04-05T21:45,18.33
+1085,27,choco,27075,bahia solano (mutis),27075002,el valle (bahia solano - choco),2023,4,164425,62119,35660,sabado,2023-04-08T19:00,23.4
+4221,27,choco,27099,bojaya,27099000,bellavista (bojaya (bellavista) - choco),2024,8,102438,30189,33248,viernes,2024-08-02T03:45,16.25
+1488,27,choco,27495,nuqui,27495011,puerto jagua (nuqui - choco),2022,11,843,482,559,sabado,2022-11-26T19:45,6.33
+3903,18,caqueta,18753,san vicente del caguan,18753002,guacamayas (san vicente del caguan - caqueta),2020,4,10927,4550,3641,sabado,2020-04-25T19:15,17.09
+298,52,nariño,52250,el charco,52250023,bazan (el charco - nariño),2024,1,0,0,0,lunes,2024-01-28T11:00,0.0
+2949,99,vichada,99773,cumaribo,99773000,cumaribo (cumaribo - vichada),2021,5,164425,62119,638,viernes,2021-05-21T14:45,23.52
+857,86,putumayo,86573,puerto leguizamo,86573000,puerto leguizamo (puerto leguizamo - putumayo),2023,8,164425,62119,35660,jueves,2023-08-31T11:30,23.48
+3625,19,cauca,19809,timbiqui,19809007,san jose (timbiqui - cauca),2020,8,8643,6674,4812,domingo,2020-08-09T19:15,6.55
+2461,97,vaupes,97666,taraira,97666000,taraira (taraira - vaupes),2021,11,29213,9089,12584,lunes,2021-11-30T00:30,10.32
+3215,91,amazonas,91001,leticia,91001000,leticia (leticia - amazonas),2021,1,164425,62119,35660,lunes,2021-01-18T15:00,24.0
+2681,27,choco,27099,bojaya (bellavista),27099005,napipi (bojaya (bellavista) - choco),2021,8,11006,2945,608,lunes,2021-08-30T20:15,6.43
+2060,88,"archipielago de san andres, providencia y santa catalina",88001,san andres,88001000,san andres (san andres - archipielago de san andres y providencia),2022,3,164425,62119,35660,jueves,2022-03-24T15:45,24.0
+62,52,nariño,52490,olaya herrera,52490913,boca de prieta (olaya herrera - nariño),2024,6,2168,656,137,sabado,2024-06-29T19:30,6.19
+1026,27,choco,27425,medio atrato (bete),27425000,bete (medio atrato (bete) - choco),2023,5,15078,8968,60,viernes,2023-05-26T10:45,12.09
+2298,5,antioquia,5873,vigia del fuerte,5873002,vegaez (vigia del fuerte - antioquia),2021,12,3721,429,5114,jueves,2021-12-23T19:00,5.05
+4182,52,nariño,52390,la tola,52390016,san pablo del mar (la tola - nariño),2020,1,4497,805,3542,domingo,2020-01-19T19:00,5.34
+671,19,cauca,19809,timbiqui,19809009,santa rosa de saija (timbiqui - cauca),2023,10,2538,1245,2414,martes,2023-10-17T19:30,4.23
+466,18,caqueta,18150,cartagena del chaira,18150002,santa fe del caguan (cartagena del chaira - caqueta),2024,4,4744,2244,45,martes,2024-04-16T18:30,4.44
+766,52,nariño,52250,el charco,52250022,el cuil pueblo nuevo (el charco - nariño),2023,9,4847,2274,308,sabado,2023-09-16T18:45,7.31
+1293,97,vaupes,97666,taraira,97666000,taraira (taraira - vaupes),2023,2,27764,8917,11625,martes,2023-02-28T19:30,11.05
+2230,19,cauca,19318,guapi,19318013,san antonio de guajui (guapi - cauca),2022,1,11541,4806,4816,viernes,2022-01-07T18:30,9.41
+2556,91,amazonas,91798,tarapaca (anm),91798000,tarapaca (tarapaca (anm) - amazonas),2021,9,23838,10769,9096,martes,2021-09-28T18:15,10.21
+658,97,vaupes,97001,mitu,97001000,mitu (mitu - vaupes),2023,11,164425,62119,31745,miercoles,2023-11-01T12:00,24.0
+13,19,cauca,19809,timbiqui,19809014,chacon (timbiqui - cauca),2024,6,3571,875,22,sabado,2024-06-22T18:45,7.26
+71,76,valle del cauca,76109,buenaventura,76109081,punta bonita,2024,6,2799,3112,2103,sabado,2024-06-29T20:30,6.28
+2214,91,amazonas,91001,leticia,91001000,leticia (leticia - amazonas),2022,1,164425,62119,35660,miercoles,2022-01-19T15:15,24.0
+3652,52,nariño,52250,el charco,52250022,el cuil pueblo nuevo (el charco - nariño),2020,8,5250,1928,3382,sabado,2020-08-29T19:30,5.43
+1937,27,choco,27077,bajo baudo (pizarro),27077905,piliza (bajo baudo (pizarro) - choco),2022,5,6763,6146,352,lunes,2022-05-16T19:00,7.82
+2938,52,nariño,52390,la tola,52390016,san pablo del mar (la tola - nariño),2021,5,4918,1494,2752,martes,2021-05-25T18:45,7.02
+4622,97,vaupes,97666,taraira,97666000,taraira,2025,1,41498,11122,12954,lunes,2025-01-27T12:30,14.44
+1587,97,vaupes,97161,caruru,97161000,caruru (caruru - vaupes),2022,10,12134,3288,9636,viernes,2022-10-07T18:00,5.4
+1296,99,vichada,99001,puerto carreño,99001002,casuarito (puerto carreño - vichada),2023,2,33007,12054,10965,lunes,2023-02-27T13:45,14.03
+1427,94,guainia,94343,barrancominas,94343000,barrancominas (barrancominas - guainia),2022,12,70067,21323,19238,lunes,2022-12-05T18:15,16.22
+444,44,la guajira,44847,uribia,44847003,cabo de la vela (uribia - la guajira),2024,3,44785,1620,16133,jueves,2024-03-28T19:00,12.35
+2104,47,magdalena,47189,cienaga,47189018,palmor (cienaga - magdalena),2022,3,95104,31642,17914,jueves,2022-03-24T19:15,22.46
+2407,19,cauca,19809,timbiqui,19809014,chacon (timbiqui - cauca),2021,11,4588,1137,2946,domingo,2021-11-14T18:45,6.39
+1449,99,vichada,99624,santa rosalia,99624000,santa rosalia (santa rosalia - vichada),2022,12,148727,62119,34315,miercoles,2022-12-14T20:15,18.04
+3434,52,nariño,52696,santa barbara (iscuande),52696022,secadero (santa barbara (iscuande) - nariño),2020,11,2997,1971,1459,jueves,2020-11-26T18:45,8.54
+479,27,choco,27077,bajo baudo,27077008,orpua (bajo baudo - choco),2024,4,564,344,456,domingo,2024-04-28T18:15,5.44
+3025,52,nariño,52835,san andres de tumaco,52835217,san juan de la costa (san andres de tumaco - nariño),2021,4,16922,6309,1408,viernes,2021-04-02T19:15,5.48
+684,27,choco,27372,jurado,27372000,jurado (jurado - choco),2023,10,163692,59810,35660,jueves,2023-10-19T19:00,20.0
+3133,88,"archipielago de san andres, providencia y santa catalina",88001,san andres,88001000,san andres (san andres - archipielago de san andres y providencia),2021,2,164425,62119,35660,lunes,2021-02-15T15:30,24.0
+2482,19,cauca,19318,guapi,19318008,limones (guapi - cauca),2021,10,8323,3782,3647,viernes,2021-10-22T18:15,9.35
+4151,27,choco,27006,acandi,27006003,capurgana (acandi - choco),2020,1,164425,62119,35660,viernes,2020-01-03T18:30,18.23
+583,76,valle del cauca,76109,buenaventura,76109032,san francisco naya (buenaventura - valle del cauca),2023,12,6578,3292,3318,sabado,2023-12-23T12:30,8.09
+735,19,cauca,19809,timbiqui,19809014,chacon (timbiqui - cauca),2023,9,3824,1089,2416,martes,2023-09-05T18:15,7.01
+3514,97,vaupes,97161,caruru,97161000,caruru (caruru - vaupes),2020,10,15372,3658,6723,jueves,2020-10-29T19:15,10.31
+2890,19,cauca,19418,lopez de micay,19418033,boca grande (lopez (micay) - cauca),2021,5,4509,983,3056,viernes,2021-05-07T19:30,5.43
+152,76,valle del cauca,76109,buenaventura,76109069,papayal 1 (buenaventura - valle del cauca),2024,7,5757,1043,3947,miercoles,2024-07-31T19:45,8.35
+3880,52,nariño,52696,santa barbara (iscuande),52696017,santa rita (santa barbara (iscuande) - nariño),2020,5,6954,3632,3796,viernes,2020-05-15T20:00,7.09
+4272,97,vaupes,97001,mitu,97001000,mitu (mitu - vaupes),2024,8,164425,62119,35660,miercoles,2024-08-21T13:00,23.56
+4161,27,choco,27425,medio atrato (bete),27425000,bete (medio atrato (bete) - choco),2020,1,7336,2747,84,viernes,2020-01-31T19:45,4.4
+3197,52,nariño,52835,san andres de tumaco,52835212,pueblo nuevo (tablon salado) (tumaco - nariño),2021,2,3120,1108,1997,domingo,2021-02-14T23:00,8.34
+4262,52,nariño,52835,san andres de tumaco,52835217,san juan de la costa (san andres de tumaco - nariño),2024,8,25180,9879,1056,martes,2024-08-06T19:15,10.41
+2460,97,vaupes,97001,mitu,97001000,mitu (mitu - vaupes),2021,11,164425,62119,35660,miercoles,2021-11-17T23:45,23.03
+669,19,cauca,19809,timbiqui,19809023,puerto saija (timbiqui - cauca),2023,10,36433,12356,18304,sabado,2023-10-14T19:30,8.11
+2972,19,cauca,19418,lopez de micay,19418038,isla de gallo (lopez de micay - cauca),2021,4,4112,1482,2618,sabado,2021-04-03T19:00,6.42
+3457,19,cauca,19418,lopez de micay,19418024,betania - naya (lopez (micay) - cauca),2020,10,6932,2127,3104,jueves,2020-10-22T00:00,9.53
+1938,27,choco,27077,bajo baudo (pizarro),27077905,pizarro (bajo baudo (pizarro) - choco),2022,5,164425,62119,35660,miercoles,2022-05-11T19:00,22.23
+3669,86,putumayo,86573,puerto leguizamo,86573009,piñuña negro (puerto leguizamo - putumayo),2020,8,2963,1670,224,domingo,2020-08-30T20:30,5.17
+1222,18,caqueta,18150,cartagena del chaira,18150002,santa fe del caguan (cartagena del chaira - caqueta),2023,2,3129,1511,4052,sabado,2023-02-04T19:00,3.31
+1282,52,nariño,52696,santa barbara (iscuande),52696014,la ensenada (santa barbara (iscuande) - nariño),2023,2,2680,4713,2234,lunes,2023-02-27T19:30,5.28
+4260,52,nariño,52250,el charco,52250005,las mercedes (el charco - nariño),2024,8,936,411,1194,domingo,2024-08-25T20:30,4.15
+2536,52,nariño,52490,olaya herrera,52490913,boca de prieta (olaya herrera - nariño),2021,10,3807,1027,1968,jueves,2021-10-14T15:15,7.21
+961,27,choco,27001,quibdo,27001029,tagachi (quibdo - choco),2023,6,7829,2983,4272,domingo,2023-06-25T14:00,8.01
+3155,27,choco,27006,acandi,27006000,acandi (acandi - choco),2021,2,164425,62119,35660,lunes,2021-02-08T20:30,23.09
+599,18,caqueta,18753,san vicente del caguan,18753002,guacamayas (san vicente del caguan - caqueta),2023,11,12538,5007,3684,viernes,2023-11-17T18:30,17.16
+568,52,nariño,52250,el charco,52250016,alteron - uribe uribe (el charco - nariño),2023,12,0,0,0,viernes,2023-12-01T00:00,0.0
+3198,52,nariño,52835,san andres de tumaco,52835217,san juan de la costa (san andres de tumaco - nariño),2021,2,22355,8222,1344,martes,2021-02-23T18:45,8.26
+2986,27,choco,27025,alto baudo (pie de pato),27025000,ciudad baudo - pie de pato (alto baudo - choco),2021,4,46655,13827,11334,jueves,2021-04-16T00:00,23.58
+1341,27,choco,27372,jurado,27372000,jurado (jurado - choco),2023,1,164425,62119,30256,lunes,2023-01-30T19:00,23.45
+4404,95,guaviare,95200,miraflores,95200000,miraflores (miraflores - guaviare),2024,11,130789,21127,29808,jueves,2024-11-07T18:00,24.0
+535,27,choco,27006,acandi,27006007,san francisco (acandi - choco),2023,12,17019,7527,8578,domingo,2023-12-31T19:00,8.45
+4120,99,vichada,99001,puerto carreño,99001002,casuarito (puerto carreño - vichada),2020,2,13438,5547,12795,lunes,2020-02-24T19:45,5.09
+2993,27,choco,27099,bojaya (bellavista),27099002,la loma de bojaya (bojaya (bellavista) - choco),2021,4,12049,5517,608,martes,2021-04-20T19:00,9.12
+1635,27,choco,27800,unguia,27800001,balboa (unguia - choco),2022,9,22055,9105,8746,jueves,2022-09-15T21:00,10.91
+1916,19,cauca,19318,guapi,19318008,limones (guapi - cauca),2022,5,8949,4217,3952,domingo,2022-05-08T13:00,9.8
+2665,19,cauca,19809,timbiqui,19809010,comunidad de chete (timbiqui - cauca),2021,8,4619,1957,321,jueves,2021-08-19T18:30,5.28
+3270,52,nariño,52835,san andres de tumaco,52835012,chajal (tumaco - nariño),2021,1,22307,7780,14256,viernes,2021-01-15T19:45,6.19
+4532,27,choco,27077,bajo baudo,27077008,orpua (bajo baudo - choco),2024,9,351,185,506,domingo,2024-09-01T19:00,3.55
+1042,52,nariño,52427,magüi,52427013,la loma (magüi - nariño),2023,5,529,323,727,miercoles,2023-05-31T18:30,2.55
+4617,94,guainia,94343,barranco minas,94343901,chatare,2025,1,1828,166,435,lunes,2025-01-20T18:45,22.72
+719,5,antioquia,5873,vigia del fuerte,5873002,vegaez (vigia del fuerte - antioquia),2023,9,5685,837,5626,jueves,2023-09-07T21:00,6.18
+1310,18,caqueta,18753,san vicente del caguan,18753002,guacamayas (san vicente del caguan - caqueta),2023,1,15622,6107,4135,sabado,2023-01-28T19:15,18.56
+239,13,bolivar,13001,cartagena de indias,13001017,santa cruz del islote (cartagena de indias - bolivar),2024,1,2051,740,4106,lunes,2024-01-29T22:15,1.51
+2979,19,cauca,19809,timbiqui,19809026,los brazos (timbiqui - cauca),2021,4,8793,1608,492,sabado,2021-04-10T19:45,7.14
+2373,19,cauca,19418,lopez de micay,19418009,noanamito (lopez de micay - cauca),2021,9,5674,1841,44,sabado,2021-09-18T20:30,6.18
+692,94,guainia,94343,barranco minas,94343000,barranco minas (barranco minas - guainia),2023,10,87969,25794,22913,jueves,2023-10-05T18:15,16.19
+2250,27,choco,27075,bahia solano (mutis),27075002,el valle (bahia solano - choco),2022,1,164425,62119,34927,martes,2022-01-04T19:15,23.48
+4103,52,nariño,52835,san andres de tumaco,52835055,bocas de curay (tumaco - nariño),2020,2,8950,1417,576,domingo,2020-02-23T23:45,7.02
+4076,27,choco,27099,bojaya (bellavista),27099002,la loma de bojaya (bojaya (bellavista) - choco),2020,2,13764,5166,832,domingo,2020-02-16T19:30,7.42
+372,52,nariño,52250,el charco,52250016,alteron - uribe uribe (el charco - nariño),2024,2,476,252,804,lunes,2024-02-19T21:00,2.52
+916,76,valle del cauca,76109,buenaventura,76109028,puerto merizalde (buenaventura - valle del cauca),2023,7,88095,32072,24552,jueves,2023-07-06T15:30,18.57
+2788,50,meta,50325,mapiripan,50325000,mapiripan (mapiripan - meta),2021,7,149997,59258,30888,miercoles,2021-07-28T18:45,23.56
+2329,27,choco,27075,bahia solano (mutis),27075000,ciudad mutis (bahia solano - choco),2021,12,164425,62119,35660,viernes,2021-12-18T00:00,24.0
+4602,76,valle del cauca,76109,buenaventura,76109863,san antonio,2025,1,2138,552,814,viernes,2025-01-10T01:00,12.2
+1992,19,cauca,19318,guapi,19318008,limones (guapi - cauca),2022,4,8641,3982,3819,viernes,2022-04-29T18:45,9.85
+3174,27,choco,27495,nuqui,27495011,puerto jagua (nuqui - choco),2021,2,638,341,437,martes,2021-02-02T20:30,7.25
+1056,99,vichada,99773,cumaribo,99773000,cumaribo (cumaribo - vichada),2023,5,164425,62119,35660,miercoles,2023-05-17T09:00,23.47
+777,52,nariño,52835,san andres de tumaco,52835055,bocas de curay (tumaco - nariño),2023,9,6565,2336,552,sabado,2023-09-16T19:15,5.34
+4259,52,nariño,52390,la tola,52390003,la vigia de la mar (la tola - nariño),2024,8,5544,2643,2564,miercoles,2024-08-21T12:45,9.46
+1919,19,cauca,19809,timbiqui,19809003,puerto saija (timbiqui - cauca),2022,5,29180,14604,17318,domingo,2022-05-29T19:15,6.65
+110,27,choco,27077,bajo baudo,27077008,orpua (bajo baudo - choco),2024,7,942,268,719,martes,2024-07-23T18:30,8.13
+2471,5,antioquia,5873,vigia del fuerte,5873000,vigia del fuerte (vigia del fuerte - antioquia),2021,10,64864,24729,33053,jueves,2021-10-28T20:30,7.31
+4359,13,bolivar,13001,cartagena de indias,13001037,isla mucura (cartagena de indias - bolivar),2024,11,4481,1628,1882,viernes,2024-11-29T23:30,9.86
+3186,52,nariño,52520,francisco pizarro,52520013,san pedro del vino (francisco pizarro - nariño),2021,2,5240,2562,2813,domingo,2021-02-21T19:00,8.25
+1695,19,cauca,19809,timbiqui,19809009,santa rosa de saija (timbiqui - cauca),2022,8,3966,2112,271,sabado,2022-08-20T19:30,6.23
+2226,18,caqueta,18753,san vicente del caguan,18753002,guacamayas (san vicente del caguan - caqueta),2022,1,15105,6256,4231,domingo,2022-01-02T18:30,18.21
+4538,27,choco,27099,bojaya,27099002,la loma de bojaya (bojaya - choco),2024,9,8725,3426,512,lunes,2024-09-09T19:15,7.87
+4056,19,cauca,19418,lopez de micay,19418038,isla de gallo (lopez de micay - cauca),2020,2,2834,905,2634,viernes,2020-02-14T18:30,4.35
+52,52,nariño,52250,el charco,52250005,las mercedes (el charco - nariño),2024,6,983,873,1258,sabado,2024-06-01T19:00,4.14
+415,19,cauca,19809,timbiqui,19809009,santa rosa de saija (timbiqui - cauca),2024,3,2787,760,2105,viernes,2024-03-01T19:30,5.29
+1830,13,bolivar,13001,cartagena,13001037,isla fuerte (cartagena - bolivar),2022,6,52039,24778,1793,jueves,2022-06-23T23:00,12.68
+1898,99,vichada,99001,puerto carreño,99001002,puerto carreño (puerto carreño - vichada),2022,6,164425,62119,35660,viernes,2022-06-10T14:15,23.97
+1339,27,choco,27250,el litoral del san juan,27250000,santa genoveva de docordo (el litoral del san juan - choco),2023,1,59896,35133,18097,miercoles,2023-01-18T08:00,19.08
+1124,76,valle del cauca,76109,buenaventura,76109028,puerto merizalde (buenaventura - valle del cauca),2023,4,99985,35264,21226,sabado,2023-04-15T19:30,22.16
+234,5,antioquia,5873,vigia del fuerte,5873013,loma murri (vigia del fuerte - antioquia),2024,1,6070,2216,2856,domingo,2024-01-28T14:45,8.16
+3642,27,choco,27800,unguia,27800001,balboa (unguia - choco),2020,8,16135,6501,7724,sabado,2020-08-22T20:45,8.15
+3647,44,la guajira,44847,uribia,44847012,nazareth (uribia - la guajira),2020,8,43263,21057,25248,lunes,2020-08-03T18:45,10.1
+3816,97,vaupes,97001,mitu,97001000,mitu (mitu - vaupes),2020,6,164425,62119,35660,miercoles,2020-06-10T23:30,7.18
+1780,27,choco,27495,nuqui,27495000,comunidad indigena de pangui - (el yucal) (nuqui - choco),2022,7,8029,62119,1142,martes,2022-07-12T16:00,23.63
+4360,13,bolivar,13001,cartagena de indias,13001017,santa cruz del islote (cartagena de indias - bolivar),2024,11,4427,1201,5011,martes,2024-11-05T22:15,3.73
+3808,52,nariño,52835,san andres de tumaco,52835217,san juan de la costa (san andres de tumaco - nariño),2020,6,29442,23809,1504,jueves,2020-06-25T18:45,7.05
+291,94,guainia,94001,inirida,94001000,inirida (inirida - guainia),2024,1,164425,62119,35660,miercoles,2024-01-31T14:45,24.0
+4254,52,nariño,52490,olaya herrera,52490913,boca de prieta (olaya herrera - nariño),2024,8,2167,662,1294,jueves,2024-08-01T20:30,6.34
+1554,27,choco,27099,bojaya (bellavista),27099002,la loma de bojaya (bojaya (bellavista) - choco),2022,10,12842,6503,64,martes,2022-10-11T18:45,9.02
+2599,27,choco,27425,medio atrato (bete),27425000,bete (medio atrato (bete) - choco),2021,9,15956,9568,56,jueves,2021-09-30T19:30,12.31
+2488,19,cauca,19418,lopez de micay,19418012,san antonio de chuare (lopez de micay - cauca),2021,10,6339,2235,5526,jueves,2021-10-28T18:45,4.43
+355,27,choco,27372,jurado,27372000,jurado (jurado - choco),2024,2,164425,62119,33936,jueves,2024-02-15T19:45,23.55
+3707,27,choco,27075,bahia solano (mutis),27075001,cupica (bahia solano - choco),2020,7,55762,20068,13152,miercoles,2020-07-15T19:30,22.36
+2604,27,choco,27495,nuqui,27495011,puerto jagua (nuqui - choco),2021,9,671,559,502,miercoles,2021-09-22T18:45,7.0
+562,94,guainia,94001,inirida,94001000,inirida (inirida - guainia),2023,12,164425,62119,35660,jueves,2023-12-21T17:45,24.0
+133,47,magdalena,47189,cienaga,47189018,palmor (cienaga - magdalena),2024,7,76944,27976,16774,domingo,2024-07-21T19:15,21.53
+3177,94,guainia,94343,barrancominas,94343000,barrancominas (barrancominas - guainia),2021,2,44781,16050,18906,lunes,2021-02-22T18:45,10.23
+3001,27,choco,27495,nuqui,27495000,nuqui (nuqui - choco),2021,4,164425,62119,35660,jueves,2021-04-22T19:45,24.0
+2229,19,cauca,19318,guapi,19318008,limones (guapi - cauca),2022,1,7662,3177,363,jueves,2022-01-13T19:00,8.55
+121,27,choco,27425,medio atrato,27425008,san roque (medio atrato - choco),2024,7,1666,670,2292,lunes,2024-07-08T20:00,3.24
+2553,99,vichada,99624,santa rosalia,99624000,santa rosalia (santa rosalia - vichada),2021,10,144935,62119,3961,viernes,2021-10-15T18:45,17.28
+945,27,choco,27006,acandi,27006000,acandi (acandi - choco),2023,6,164425,62119,14652,sabado,2023-06-03T22:00,19.27
+2385,91,amazonas,91798,tarapaca (anm),91798000,tarapaca (tarapaca (anm) - amazonas),2021,11,24076,11003,8996,viernes,2021-11-26T18:30,10.21
+4543,27,choco,27250,el litoral del san juan,27250000,santa genoveva de docordo (el litoral del san juan - choco),2024,9,85654,43601,23311,miercoles,2024-09-18T18:45,16.25
+4557,94,guainia,94001,inirida,94001000,inirida (inirida - guainia),2024,9,164425,62119,35660,martes,2024-09-24T14:30,24.0
+4526,27,choco,27075,bahia solano,27075000,ciudad mutis (bahia solano - choco),2024,9,164425,62119,35660,jueves,2024-09-19T19:30,23.72
+678,27,choco,27077,bajo baudo,27077008,orpua (bajo baudo - choco),2023,10,1055,577,688,sabado,2023-10-21T13:15,9.0
+4101,52,nariño,52490,olaya herrera,52490913,boca de prieta (olaya herrera - nariño),2020,2,3266,634,2167,lunes,2020-02-10T19:45,5.52
+430,27,choco,27361,istmina,27361023,potedo (istmina - choco),2024,3,2379,1459,1268,jueves,2024-03-14T16:30,8.17
+135,52,nariño,52250,el charco,52250016,alteron (uribe uribe) (el charco - nariño),2024,7,283,177,614,lunes,2024-07-29T19:15,1.53
+3078,27,choco,27099,bojaya (bellavista),27099002,la loma de bojaya (bojaya (bellavista) - choco),2021,3,11694,5310,576,domingo,2021-03-07T19:30,8.3
+1551,27,choco,27077,bajo baudo (pizarro),27077905,buenavista (bajo baudo (pizarro) - choco),2022,10,2613,404,361,miercoles,2022-10-12T19:00,2.41
+3049,13,bolivar,13001,cartagena de indias,13001017,santa cruz del islote (cartagena de indias - bolivar),2021,3,16798,5857,5018,martes,2021-03-30T21:15,16.04
+2296,91,amazonas,91540,puerto nariño,91540000,puerto nariño (puerto nariño - amazonas),2021,12,114582,39961,22141,lunes,2021-12-27T19:00,24.0
+4104,52,nariño,52835,san andres de tumaco,52835012,chajal (tumaco - nariño),2020,2,4599,1354,13684,lunes,2020-02-24T19:30,1.26
+3428,52,nariño,52835,san andres de tumaco,52835212,pueblo nuevo (tablon salado) (tumaco - nariño),2020,11,3063,1150,1658,miercoles,2020-11-11T18:15,8.26
+4540,27,choco,27099,bojaya,27099030,piedra candela (bojaya - choco),2024,9,6808,3039,3504,jueves,2024-09-19T16:15,8.59
+3520,99,vichada,99001,puerto carreño,99001000,puerto carreño (puerto carreño - vichada),2020,10,164425,62119,35660,viernes,2020-10-30T14:15,24.0
+4164,27,choco,27495,nuqui,27495000,nuqui (nuqui - choco),2020,1,164425,62119,35660,lunes,2020-01-13T19:15,19.34
+801,19,cauca,19318,guapi,19318013,san antonio de guajui (guapi - cauca),2023,8,11007,6047,5781,miercoles,2023-08-02T19:30,8.06
+18,27,choco,27006,acandi,27006000,acandi (acandi - choco),2024,6,164425,62119,15796,lunes,2024-06-17T20:30,19.37
+2358,52,nariño,52250,el charco,52250023,bazan (el charco - nariño),2021,12,20899,12895,1056,viernes,2021-12-10T19:30,8.0
+3248,27,choco,27372,jurado,27372000,jurado (jurado - choco),2021,1,157001,62119,28336,jueves,2021-01-21T19:15,23.3
+2885,18,caqueta,18753,san vicente del caguan,18753009,puerto betania (san vicente del caguan - caqueta),2021,5,4216,1582,4308,jueves,2021-05-27T18:45,4.0
+1470,19,cauca,19809,timbiqui,19809023,puerto saija (timbiqui - cauca),2022,11,34981,11388,17952,lunes,2022-11-14T20:00,8.13
+2834,19,cauca,19318,guapi,19318008,limones (guapi - cauca),2021,6,8067,3358,3603,viernes,2021-06-25T16:30,9.44
+4042,91,amazonas,91798,tarapaca (anm),91798000,tarapaca (tarapaca (anm) - amazonas),2020,2,22870,8922,9062,domingo,2020-02-23T19:00,10.24
+2015,27,choco,27495,nuqui,27495000,nuqui (nuqui - choco),2022,4,164425,62119,35660,martes,2022-04-05T19:15,23.98
+4370,19,cauca,19809,timbiqui,19809009,santa rosa de saija (timbiqui - cauca),2024,11,3336,1057,2196,jueves,2024-11-21T18:45,6.12
+1210,99,vichada,99524,la primavera,99524000,la primavera (la primavera - vichada),2023,3,164425,62119,35660,viernes,2023-03-17T18:30,24.0
+123,27,choco,27495,nuqui,27495011,comunidad de puerto jagua (nuqui - choco),2024,7,986,443,562,lunes,2024-07-08T19:00,7.12
+1372,52,nariño,52835,san andres de tumaco,52835055,bocas de curay (tumaco - nariño),2023,1,4078,1550,576,sabado,2023-01-07T19:00,3.11
+813,27,choco,27025,alto baudo (pie de pato),27025000,ciudad baudo - pie de pato (alto baudo - choco),2023,8,53179,17886,12294,miercoles,2023-08-30T11:45,23.54
+1834,18,caqueta,18753,san vicente del caguan,18753002,guayabal (san vicente del caguan - caqueta),2022,6,5878,2779,379,domingo,2022-06-05T10:30,6.63
+469,19,cauca,19418,lopez de micay,19418009,noanamito (lopez de micay - cauca),2024,4,5821,2549,40,sabado,2024-04-06T19:45,7.15
+878,19,cauca,19418,lopez de micay,19418012,san antonio de chuare (lopez de micay - cauca),2023,7,5872,1823,4669,sabado,2023-07-01T19:00,5.2
+3947,52,nariño,52490,olaya herrera,52490913,boca de prieta (olaya herrera - nariño),2020,4,4257,853,2268,lunes,2020-04-13T19:00,7.1
+487,27,choco,27800,unguia,27800001,balboa (unguia - choco),2024,4,25147,9473,8904,viernes,2024-04-05T21:30,12.04
+1813,86,putumayo,86573,puerto leguizamo,86573009,piñuña negro (puerto leguizamo - putumayo),2022,7,3826,18872,288,sabado,2022-07-02T19:45,6.4
+3081,27,choco,27250,el litoral del san juan,27250000,santa genoveva de docordo (el litoral del san juan - choco),2021,3,72058,37684,18454,lunes,2021-03-08T22:15,17.7
+3871,52,nariño,52390,la tola,52390013,amarales (la tola - nariño),2020,5,9895,2162,6429,jueves,2020-05-07T19:45,6.3
+1781,27,choco,27250,el litoral del san juan,27250000,cucurrupi (el litoral del san juan - choco),2022,7,3281,9543,1984,martes,2022-07-05T19:00,6.38
+839,52,nariño,52250,el charco,52250016,alteron (uribe uribe) (el charco - nariño),2023,8,0,0,0,martes,2023-08-01T00:00,0.0
+3467,19,cauca,19809,timbiqui,19809007,san jose (timbiqui - cauca),2020,10,9190,5461,4531,miercoles,2020-10-28T18:00,7.57
+1069,18,caqueta,18150,cartagena del chaira,18150001,remolino del caguan (cartagena del chaira - caqueta),2023,4,18351,6956,10176,sabado,2023-04-15T19:15,8.16
+3448,5,antioquia,5873,vigia del fuerte,5873002,vegaez (vigia del fuerte - antioquia),2020,10,5788,746,3501,viernes,2020-10-30T18:45,7.7
+4090,95,guaviare,95200,miraflores,95200000,miraflores (miraflores - guaviare),2020,2,78132,28048,21208,viernes,2020-02-28T18:30,18.28
+627,27,choco,27372,jurado,27372000,jurado (jurado - choco),2023,11,164425,61251,35168,martes,2023-11-28T18:45,23.03
+1692,19,cauca,19418,lopez de micay,19418012,san antonio de chuare (lopez de micay - cauca),2022,8,4540,1588,4269,jueves,2022-08-18T18:45,4.27
+2528,52,nariño,52250,el charco,52250022,el cuil pueblo nuevo (el charco - nariño),2021,10,5885,7760,3018,sabado,2021-10-23T18:15,7.28
+830,27,choco,27800,unguia,27800001,balboa (unguia - choco),2023,8,26794,9912,9045,sabado,2023-08-05T19:30,12.08
+1236,19,cauca,19809,timbiqui,19809009,santa rosa de saija (timbiqui - cauca),2023,2,3110,1440,2263,sabado,2023-02-25T19:45,5.53
+1838,19,cauca,19809,timbiqui,19809003,chacon (timbiqui - cauca),2022,6,4233,1293,279,jueves,2022-06-09T19:15,6.4
+1221,18,caqueta,18150,cartagena del chaira,18150001,remolino del caguan (cartagena del chaira - caqueta),2023,2,18931,7358,9627,sabado,2023-02-04T19:15,9.05
+1265,95,guaviare,95200,miraflores,95200000,miraflores (miraflores - guaviare),2023,2,75587,24768,20196,viernes,2023-02-03T19:00,17.45
+3781,27,choco,27077,bajo baudo (pizarro),27077000,pizarro (bajo baudo (pizarro) - choco),2020,6,164425,62119,35660,lunes,2020-06-08T19:30,16.02
+3525,5,antioquia,5873,vigia del fuerte,5873001,san antonio de padua (vigia del fuerte - antioquia),2020,9,3516,1303,3091,lunes,2020-09-07T19:00,4.36
+4530,27,choco,27077,bajo baudo,27077029,firme de usarga (bajo baudo - choco),2024,9,668,300,687,sabado,2024-09-07T18:30,4.33
+1480,27,choco,27099,bojaya (bellavista),27099002,la loma de bojaya (bojaya (bellavista) - choco),2022,11,11797,5709,672,miercoles,2022-11-30T19:30,8.14
+1352,27,choco,27800,unguia,27800005,titumate (unguia - choco),2023,1,16014,3835,8914,viernes,2023-01-06T20:00,8.26
+319,5,antioquia,5873,vigia del fuerte,5873010,la playa murri  (vigia del fuerte - antioquia),2024,2,5127,2848,2579,domingo,2024-02-25T16:15,8.4
+3465,19,cauca,19809,timbiqui,19809003,coteje (timbiqui - cauca),2020,10,6085,3449,3392,sabado,2020-10-31T19:00,6.45
+275,27,choco,27250,el litoral del san juan,27250000,santa genoveva de docordo (el litoral del san juan - choco),2024,1,88631,43871,24737,domingo,2024-01-28T19:15,15.43
+1269,52,nariño,52250,el charco,52250003,bolivar - san pedro (el charco - nariño),2023,2,3442,2679,2371,viernes,2023-02-10T19:45,6.34
+1722,52,nariño,52390,la tola,52390005,aguacatal (la tola - nariño),2022,8,2063,541,1235,viernes,2022-08-19T18:00,7.53
+1870,94,guainia,94343,barranco minas,94343000,barranco minas (barranco minas - guainia),2022,6,63193,17154,1876,miercoles,2022-06-29T18:30,16.33
+1911,18,caqueta,18150,cartagena del chaira,18150001,santa fe del caguan (cartagena del chaira - caqueta),2022,5,3599,1804,396,domingo,2022-05-01T18:30,3.82
+2772,27,choco,27250,el litoral del san juan,27250000,santa genoveva de docordo (el litoral del san juan - choco),2021,7,70378,39934,16896,viernes,2021-07-16T13:30,17.52
+94,19,cauca,19318,guapi,19318008,limones (guapi - cauca),2024,7,4288,1882,4528,viernes,2024-07-05T19:45,4.08
+965,94,guainia,94343,barrancominas,94343000,barrancominas (barrancominas - guainia),2023,6,63075,15679,19687,miercoles,2023-06-28T18:30,16.14
+3210,99,vichada,99773,cumaribo,99773000,cumaribo (cumaribo - vichada),2021,2,164425,62119,35660,lunes,2021-02-08T23:30,20.21
+597,18,caqueta,18150,cartagena del chaira,18150001,remolino del caguan (cartagena del chaira - caqueta),2023,11,18814,7987,9918,sabado,2023-11-11T18:15,8.01
+3136,18,caqueta,18150,cartagena del chaira,18150001,remolino del caguan (cartagena del chaira - caqueta),2021,2,14088,6697,8605,sabado,2021-02-06T19:15,8.08
+1972,99,vichada,99773,cumaribo,99773000,cumaribo (cumaribo - vichada),2022,5,164425,62119,35660,martes,2022-05-03T15:00,23.93
+556,27,choco,27001,quibdo,27001029,tagachi (quibdo - choco),2023,12,6427,2574,4661,sabado,2023-12-30T19:30,5.54
+3412,50,meta,50325,mapiripan,50325000,mapiripan (mapiripan - meta),2020,11,147423,61791,31636,sabado,2020-11-21T18:15,23.49
+4500,97,vaupes,97666,taraira,97666000,taraira (taraira - vaupes),2024,12,42504,11497,12258,sabado,2024-12-07T12:45,14.45
+3403,27,choco,27745,sipi,27745000,sipi (sipi - choco),2020,11,9994,3792,748,lunes,2020-11-23T19:15,6.21
+3314,27,choco,27099,bojaya (bellavista),27099000,bellavista (bojaya (bellavista) - choco),2020,12,41555,17093,20949,lunes,2020-12-07T18:45,8.02
+2620,52,nariño,52520,francisco pizarro,52520013,san pedro del vino (francisco pizarro - nariño),2021,9,4073,2024,2931,miercoles,2021-09-01T19:30,6.08
+299,52,nariño,52250,el charco,52250003,bolivar - san pedro (el charco - nariño),2024,1,437,439,2438,domingo,2024-01-01T00:00,0.46
+1127,97,vaupes,97161,caruru,97161000,caruru (caruru - vaupes),2023,4,16139,6413,9266,sabado,2023-04-15T13:00,7.53
+2370,52,nariño,52696,santa barbara (iscuande),52696022,secadero (santa barbara (iscuande) - nariño),2021,12,2729,1926,1361,miercoles,2021-12-08T18:45,9.01
+1039,52,nariño,52390,la tola,52390013,amarales (la tola - nariño),2023,5,7264,2496,4525,miercoles,2023-05-17T19:15,7.33
+4286,18,caqueta,18753,san vicente del caguan,18753033,villa lobos (san vicente del caguan - caqueta),2024,10,5840,2186,5998,sabado,2024-10-05T19:45,3.91
+4379,27,choco,27077,bajo baudo,27077029,firme de usarga (bajo baudo - choco),2024,11,984,462,619,lunes,2024-11-25T18:15,7.22
+2581,19,cauca,19809,timbiqui,19809003,coteje (timbiqui - cauca),2021,9,7108,4204,3368,miercoles,2021-09-22T19:30,8.3
+1744,97,vaupes,97666,taraira,97666000,taraira (taraira - vaupes),2022,8,33542,10236,12786,jueves,2022-08-04T18:30,11.22
+1035,44,la guajira,44847,uribia,44847012,nazareth (uribia - la guajira),2023,5,62934,12169,34157,martes,2023-05-02T19:00,11.32
+656,76,valle del cauca,76109,buenaventura,76109032,san francisco naya (buenaventura - valle del cauca),2023,11,6585,2190,3462,sabado,2023-11-11T12:00,8.15
+2289,99,vichada,99773,cumaribo,99773000,cumaribo (cumaribo - vichada),2022,1,164425,62119,6798,viernes,2022-01-14T18:15,24.0
+880,19,cauca,19809,timbiqui,19809003,coteje (timbiqui - cauca),2023,7,5691,3826,3072,lunes,2023-07-24T19:30,7.05
+3968,91,amazonas,91540,puerto nariño,91540000,puerto nariño (puerto nariño - amazonas),2020,3,106517,37768,22229,jueves,2020-03-12T19:30,24.0
+2139,13,bolivar,13001,cartagena de indias,13001007,isla fuerte (cartagena de indias - bolivar),2022,2,14980,8050,16063,jueves,2022-02-17T22:15,4.4
+4528,27,choco,27075,bahia solano,27075002,el valle (bahia solano - choco),2024,9,164425,62119,35660,miercoles,2024-09-11T19:45,23.48
+860,76,valle del cauca,76109,buenaventura,76109032,san francisco naya (buenaventura - valle del cauca),2023,8,6704,3015,3251,viernes,2023-08-18T12:15,8.1
+806,19,cauca,19418,lopez de micay,19418012,san antonio de chuare (lopez de micay - cauca),2023,8,4772,1371,4746,sabado,2023-08-05T19:15,4.01
+377,52,nariño,52250,el charco,52250007,san jose del tapaje (el charco - nariño),2024,2,10042,2310,64,sabado,2024-02-17T19:30,7.23
+3700,19,cauca,19809,timbiqui,19809003,coteje (timbiqui - cauca),2020,7,6571,3869,3288,sabado,2020-07-04T19:00,7.3
+897,27,choco,27800,unguia,27800001,balboa (unguia - choco),2023,7,26211,9835,9511,domingo,2023-07-30T20:30,11.52
+4603,76,valle del cauca,76109,buenaventura,76109904,san antonio (rio cajambre),2025,1,5178,1418,302,miercoles,2025-01-22T19:15,6.98
+506,91,amazonas,91798,tarapaca (anm),91798000,tarapaca (tarapaca (anm) - amazonas),2023,12,28067,12638,10243,miercoles,2023-12-06T19:00,10.15
+534,27,choco,27006,acandi,27006000,acandi (acandi - choco),2023,12,164425,62119,35660,martes,2023-12-12T21:30,19.33
+2814,97,vaupes,97666,taraira,97666000,taraira (taraira - vaupes),2021,7,28872,8920,12188,martes,2021-07-27T00:30,10.49
+950,27,choco,27077,bajo baudo (pizarro),27077029,firme de usarga (bajo baudo (pizarro) - choco),2023,6,777,408,689,domingo,2023-06-25T19:00,4.56
+1821,99,vichada,99524,la primavera,99524000,la primavera (la primavera - vichada),2022,7,164425,62119,35660,martes,2022-07-26T19:15,23.97
+2472,88,"archipielago de san andres, providencia y santa catalina",88564,providencia,88564000,providencia (providencia - archipielago de san andres y providencia),2021,10,164425,62119,18051,jueves,2021-10-28T22:00,24.0
+1109,52,nariño,52250,el charco,52250003,bolivar - san pedro (el charco - nariño),2023,4,3370,2751,2934,martes,2023-04-04T18:15,4.53
+1504,52,nariño,52490,olaya herrera,52490913,boca de prieta (olaya herrera - nariño),2022,11,3155,820,1589,viernes,2022-11-04T19:00,7.49
+3732,52,nariño,52390,la tola,52390009,mulatos (la tola - nariño),2020,7,4074,2264,3421,miercoles,2020-07-29T18:30,6.15
+1894,97,vaupes,97666,taraira,97666000,taraira (taraira - vaupes),2022,6,31514,9744,1283,miercoles,2022-06-15T19:00,11.1
+2400,19,cauca,19418,lopez de micay,19418033,boca grande (lopez (micay) - cauca),2021,11,4101,808,2972,martes,2021-11-30T18:30,5.56
+4275,91,amazonas,91798,tarapaca (anm),91798000,tarapaca (tarapaca (anm) - amazonas),2024,10,25722,11455,9445,miercoles,2024-10-02T14:30,10.27
+1771,19,cauca,19809,timbiqui,19809003,santa rosa de saija (timbiqui - cauca),2022,7,4067,21277,2518,lunes,2022-07-18T19:45,6.42
+4032,97,vaupes,97161,caruru,97161000,caruru (caruru - vaupes),2020,3,25773,9265,9786,domingo,2020-03-15T18:45,12.14
+3564,27,choco,27800,unguia,27800005,titumate (unguia - choco),2020,9,9981,4598,7427,domingo,2020-09-13T19:15,5.26
+2965,18,caqueta,18753,san vicente del caguan,18753015,guayabal (san vicente del caguan - caqueta),2021,4,5789,3019,368,sabado,2021-04-24T18:45,6.54
+178,27,choco,27077,bajo baudo,27077905,buenavista (bajo baudo (pizarro) - choco),2024,5,3552,1341,1744,lunes,2024-05-06T19:45,8.0
+4175,50,meta,50325,mapiripan,50325000,mapiripan (mapiripan - meta),2020,1,133744,56337,28864,viernes,2020-01-31T18:45,23.37
+706,52,nariño,52835,san andres de tumaco,52835055,bocas de curay (san andres de tumaco - nariño),2023,10,6246,2240,528,viernes,2023-10-13T19:00,5.03
+2222,13,bolivar,13001,cartagena de indias,13001017,santa cruz del islote (cartagena de indias - bolivar),2022,1,13431,4523,3338,domingo,2022-01-09T21:45,17.24
+3278,99,vichada,99524,la primavera,99524000,la primavera (la primavera - vichada),2021,1,164425,62119,35660,martes,2021-01-26T18:30,24.0
+145,52,nariño,52473,mosquera,52473010,el bajito de echandia (mosquera - nariño),2024,7,2725,961,1505,jueves,2024-07-04T12:00,10.17
+545,27,choco,27250,el litoral del san juan,27250023,papayo (el litoral del san juan - choco),2023,12,6850,2152,1829,sabado,2023-12-02T19:15,22.23
+176,27,choco,27075,bahia solano,27075000,ciudad mutis (bahia solano - choco),2024,5,164425,62119,35660,miercoles,2024-05-01T11:15,23.44
+4348,97,vaupes,97161,caruru,97161000,caruru (caruru - vaupes),2024,10,36550,7807,9354,jueves,2024-10-17T19:00,16.75
+288,27,choco,27800,unguia,27800000,unguia (unguia - choco),2024,1,164425,62119,35660,viernes,2024-01-26T21:30,22.09
+416,27,choco,27006,acandi,27006000,acandi (acandi - choco),2024,3,164425,62119,35660,lunes,2024-03-18T21:15,19.01
+2544,19,cauca,19809,timbiqui,19809009,santa rosa de saija (timbiqui - cauca),2021,9,5154,3102,2717,martes,2021-09-07T19:15,8.36
+46,94,guainia,94001,inirida,94001000,inirida (inirida - guainia),2024,6,164425,62119,35660,martes,2024-06-18T14:30,24.0
+2821,91,amazonas,91540,puerto nariño,91540000,puerto nariño (puerto nariño - amazonas),2021,6,100352,34091,22106,jueves,2021-06-03T18:30,23.57
+3641,27,choco,27745,sipi,27745000,sipi (sipi - choco),2020,8,7284,2784,792,jueves,2020-08-13T19:30,3.53
+722,13,bolivar,13001,cartagena de indias,13001007,isla fuerte (cartagena de indias - bolivar),2023,9,73290,40608,22664,viernes,2023-09-29T22:15,16.07
+3577,52,nariño,52390,la tola,52390009,mulatos (la tola - nariño),2020,9,3847,1876,3667,jueves,2020-09-17T18:15,5.46
+4110,52,nariño,52696,santa barbara (iscuande),52696017,santa rita (santa barbara (iscuande) - nariño),2020,2,5168,2452,3852,sabado,2020-02-29T19:15,5.37
+1294,99,vichada,99773,cumaribo,99773000,cumaribo (cumaribo - vichada),2023,2,164425,62119,6798,viernes,2023-02-10T15:00,23.58
+2759,27,choco,27006,acandi,27006000,acandi (acandi - choco),2021,7,164425,62119,12533,viernes,2021-07-23T19:45,18.53
+908,52,nariño,52427,magüi,52427901,alto estero (magüi - nariño),2023,7,421,132,1132,domingo,2023-07-30T19:15,1.27
+2824,5,antioquia,5873,vigia del fuerte,5873000,vigia del fuerte (vigia del fuerte - antioquia),2021,6,114198,50553,32032,domingo,2021-06-06T19:30,14.0
+1645,52,nariño,52390,la tola,52390013,amarales (la tola - nariño),2022,9,5477,2348,4013,martes,2022-09-27T19:45,6.22
+1788,27,choco,27077,bajo baudo (pizarro),27077905,pizarro (bajo baudo (pizarro) - choco),2022,7,164425,62119,35660,miercoles,2022-07-20T13:00,23.02
+1832,13,bolivar,13001,cartagena,13001037,santa cruz del islote (cartagena - bolivar),2022,6,12585,3947,384,miercoles,2022-06-29T21:30,13.73
+1706,27,choco,27372,jurado,27372000,jurado (jurado - choco),2022,8,164425,62119,320,martes,2022-08-16T19:15,23.98
+4067,19,cauca,19809,timbiqui,19809009,santa rosa de saija (timbiqui - cauca),2020,2,1737,424,2748,jueves,2020-02-27T19:15,2.29
+4211,18,caqueta,18150,cartagena del chaira,18150001,remolino del caguan (cartagena del chaira - caqueta),2024,8,10186,4080,106,sabado,2024-08-24T19:15,3.48
+1091,27,choco,27099,bojaya (bellavista),27099000,bellavista (bojaya (bellavista) - choco),2023,4,100105,31137,25199,lunes,2023-04-24T19:00,16.53
+3341,52,nariño,52490,olaya herrera,52490008,san jose calabazal (olaya herrera - nariño),2020,12,8018,3357,4584,jueves,2020-12-31T18:30,6.41
+531,19,cauca,19809,timbiqui,19809023,puerto saija (timbiqui - cauca),2023,12,27403,9243,18286,domingo,2023-12-24T20:30,6.15
+2793,52,nariño,52250,el charco,52250005,las mercedes (el charco - nariño),2021,7,1921,805,1587,sabado,2021-07-10T19:00,3.41
+2940,52,nariño,52835,san andres de tumaco,52835212,pueblo nuevo (tablon salado) (tumaco - nariño),2021,5,2842,1022,1942,sabado,2021-05-29T18:15,7.17
+1700,27,choco,27077,bajo baudo,27077905,buenavista (bajo baudo - choco),2022,8,293,31,3277,martes,2022-08-16T19:45,0.35
+747,27,choco,27077,bajo baudo (pizarro),27077916,terron (bajo baudo - choco),2023,9,5577,2430,2446,sabado,2023-09-30T12:15,10.33
+2299,88,"archipielago de san andres, providencia y santa catalina",88564,providencia,88564000,providencia (providencia - archipielago de san andres y providencia),2021,12,164425,62119,35660,lunes,2021-12-06T21:15,24.0
+3079,27,choco,27099,bojaya (bellavista),27099005,napipi (bojaya (bellavista) - choco),2021,3,9823,3074,608,miercoles,2021-03-31T22:00,5.46
+3961,97,vaupes,97666,taraira,97666000,taraira (taraira - vaupes),2020,4,21427,6856,12258,jueves,2020-04-16T00:30,7.57
+1426,27,choco,27800,unguia,27800000,unguia (unguia - choco),2022,12,164425,62119,35660,sabado,2022-12-31T19:15,22.19
+150,52,nariño,52696,santa barbara,52696014,la ensenada (santa barbara - nariño),2024,7,3178,1695,2067,sabado,2024-07-27T20:00,6.27
+634,27,choco,27800,unguia,27800000,unguia (unguia - choco),2023,11,164425,62119,35660,jueves,2023-11-09T18:30,20.51
+2826,13,bolivar,13001,cartagena de indias,13001007,isla fuerte (cartagena de indias - bolivar),2021,6,27979,15039,16537,sabado,2021-06-19T21:00,7.22
+3251,27,choco,27495,nuqui,27495912,comunidad indigena de pangui - el yucal (nuqui - choco),2021,1,8149,1866,114,domingo,2021-01-17T17:15,23.53
+2799,52,nariño,52390,la tola,52390009,mulatos (la tola - nariño),2021,7,4832,3888,3802,miercoles,2021-07-21T19:15,6.24
+1502,52,nariño,52390,la tola,52390013,amarales (la tola - nariño),2022,11,6386,2073,4336,sabado,2022-11-12T19:00,6.54
+3015,52,nariño,52520,francisco pizarro,52520013,san pedro del vino (francisco pizarro - nariño),2021,4,5481,2631,2762,jueves,2021-04-02T00:30,8.28
+4253,52,nariño,52390,la tola,52390013,amarales (la tola - nariño),2024,8,9318,2501,5821,viernes,2024-08-02T20:45,8.32
+1745,99,vichada,99001,puerto carreño,99001002,casuarito (puerto carreño - vichada),2022,8,32770,12451,10243,miercoles,2022-08-24T19:00,13.48
+1414,27,choco,27075,bahia solano (mutis),27075002,el valle (bahia solano - choco),2022,12,164425,62119,35660,sabado,2022-12-31T19:45,23.44
+2046,76,valle del cauca,76109,buenaventura,76109028,san francisco de naya (buenaventura - valle del cauca),2022,4,5900,2559,3242,lunes,2022-04-18T11:45,7.93
+1162,27,choco,27077,bajo baudo (pizarro),27077000,pizarro (bajo baudo (pizarro) - choco),2023,3,164425,62119,35660,miercoles,2023-03-01T19:30,22.18
+4027,52,nariño,52696,santa barbara (iscuande),52696017,santa rita (santa barbara (iscuande) - nariño),2020,3,6109,3029,3892,miercoles,2020-03-25T19:30,5.58
+1259,27,choco,27615,riosucio,27615912,marcial (riosucio - choco),2023,2,0,0,0,miercoles,2023-02-01T00:00,0.0
+4220,27,choco,27495,nuqui,27495001,arusi (niqui - choco),2024,8,20628,8243,60,sabado,2024-08-17T12:30,15.18
+2414,27,choco,27025,alto baudo (pie de pato),27025000,ciudad baudo - pie de pato (alto baudo - choco),2021,11,47086,14330,1137,lunes,2021-11-01T00:00,23.59
+3674,97,vaupes,97161,caruru,97161000,caruru (caruru - vaupes),2020,8,18904,5664,7489,miercoles,2020-08-12T19:00,12.14
+3134,13,bolivar,13001,cartagena de indias,13001007,isla fuerte (cartagena de indias - bolivar),2021,2,29571,15821,1435,viernes,2021-02-19T23:45,9.35
+4470,27,choco,27001,quibdo,27001029,tagachi (quibdo - choco),2024,12,5390,1950,4202,martes,2024-12-31T19:30,6.08
+309,52,nariño,52696,santa barbara,52696014,la ensenada (santa barbara - nariño),2024,1,3661,4293,2227,lunes,2024-01-29T19:15,6.4
+1213,91,amazonas,91540,puerto nariño,91540000,puerto nariño (puerto nariño - amazonas),2023,2,104321,36516,22264,sabado,2023-02-18T19:30,24.0
+843,52,nariño,52250,el charco,52250005,las mercedes (el charco - nariño),2023,8,2573,1959,1424,jueves,2023-08-31T19:45,7.09
+2424,27,choco,27250,el litoral del san juan,27250000,santa genoveva de docordo (el litoral del san juan - choco),2021,11,55891,34418,14362,viernes,2021-11-26T00:15,22.51
+4599,76,valle del cauca,76109,buenaventura,76109069,papayal 1,2025,1,7916,1387,3295,domingo,2025-01-12T19:45,9.52
+3290,18,caqueta,18753,san vicente del caguan,18753015,guayabal (san vicente del caguan - caqueta),2020,12,6343,3648,3717,jueves,2020-12-31T18:30,7.3
+2246,27,choco,27006,acandi,27006007,san francisco (acandi - choco),2022,1,10598,3551,8482,miercoles,2022-01-05T19:30,5.48
+20,27,choco,27025,alto baudo,27025000,ciudad baudo - pie de pato (alto baudo - choco),2024,6,52766,18043,1276,martes,2024-06-11T12:30,23.53
+3849,27,choco,27077,bajo baudo (pizarro),27077000,pizarro (bajo baudo (pizarro) - choco),2020,5,164425,62119,35660,lunes,2020-05-04T19:15,22.39
+4408,52,nariño,52250,el charco,52250007,san jose del tapaje (el charco - nariño),2024,11,14146,3156,88,viernes,2024-11-01T18:45,8.29
+2355,47,magdalena,47189,cienaga,47189018,palmor (cienaga - magdalena),2021,12,108744,39858,20832,martes,2021-12-07T18:30,23.23
+3222,18,caqueta,18753,san vicente del caguan,18753015,guayabal (san vicente del caguan - caqueta),2021,1,6489,3797,3675,sabado,2021-01-30T19:15,7.21
+439,27,choco,27800,unguia,27800000,unguia (unguia - choco),2024,3,164425,62119,35660,domingo,2024-03-17T21:00,22.12
+1062,5,antioquia,5873,vigia del fuerte,5873002,vegaez (vigia del fuerte - antioquia),2023,4,4117,807,527,sabado,2023-04-22T19:00,32.385
+2493,19,cauca,19809,timbiqui,19809003,coteje (timbiqui - cauca),2021,10,5460,3118,3464,jueves,2021-10-28T19:15,5.56
+2883,18,caqueta,18753,san vicente del caguan,18753002,guacamayas (san vicente del caguan - caqueta),2021,5,9170,3448,3761,domingo,2021-05-30T19:00,16.22
+732,19,cauca,19418,lopez de micay,19418009,noanamito (lopez de micay - cauca),2023,9,3588,1366,36,sabado,2023-09-02T19:15,6.02
+2438,44,la guajira,44847,uribia,44847012,nazareth (uribia - la guajira),2021,11,59512,16885,26338,lunes,2021-11-08T19:00,11.43
+2632,86,putumayo,86573,puerto leguizamo,86573009,piñuña negro (puerto leguizamo - putumayo),2021,9,3863,2238,256,lunes,2021-09-27T19:00,6.49
+2464,99,vichada,99001,puerto carreño,99001002,casuarito (puerto carreño - vichada),2021,11,25865,9443,12619,martes,2021-11-16T18:15,8.45
+1074,19,cauca,19418,lopez de micay,19418011,dos quebradas rio naya (lopez de micay - cauca),2023,4,4506,1661,2739,domingo,2023-04-30T19:00,7.13
+204,44,la guajira,44847,uribia,44847003,cabo de la vela (uribia - la guajira),2024,5,37485,3837,14884,jueves,2024-05-02T21:00,10.2
+1955,52,nariño,52696,santa barbara (iscuande),52696022,la ensenada (santa barbara (iscuande) - nariño),2022,5,3063,4831,2195,jueves,2022-05-26T19:30,5.35
+1833,18,caqueta,18753,san vicente del caguan,18753002,guacamayas (san vicente del caguan - caqueta),2022,6,13567,4441,418,lunes,2022-06-27T19:30,18.15
+3551,27,choco,27075,bahia solano (mutis),27075000,ciudad mutis (bahia solano - choco),2020,9,164425,62119,35660,jueves,2020-09-10T19:15,23.57
+1515,99,vichada,99773,cumaribo,99773000,cumaribo (cumaribo - vichada),2022,11,164425,62119,35660,martes,2022-11-22T11:30,23.54
+3009,44,la guajira,44847,uribia,44847012,nazareth (uribia - la guajira),2021,4,35845,17755,23208,lunes,2021-04-26T19:45,7.56
+3728,52,nariño,52250,el charco,52250022,el cuil pueblo nuevo (el charco - nariño),2020,7,6266,2263,3444,domingo,2020-07-19T18:30,6.46
+4350,97,vaupes,97666,taraira,97666000,taraira (taraira - vaupes),2024,10,48031,13010,13948,lunes,2024-10-07T12:30,14.42
+2785,94,guainia,94001,inirida,94001000,inirida (inirida - guainia),2021,7,164425,62119,35660,jueves,2021-07-29T14:45,24.0
+1412,27,choco,27006,acandi,27006007,san francisco (acandi - choco),2022,12,26493,9465,12283,viernes,2022-12-30T19:45,9.26
+4407,52,nariño,52250,el charco,52250022,el cuil pueblo nuevo (el charco - nariño),2024,11,3806,1855,3102,miercoles,2024-11-06T18:45,4.93
+4047,88,"archipielago de san andres, providencia y santa catalina",88001,san andres,88001000,san andres (san andres - archipielago de san andres y providencia),2020,2,164425,62119,35660,miercoles,2020-02-12T16:00,24.0
+1130,99,vichada,99773,cumaribo,99773000,cumaribo (cumaribo - vichada),2023,4,164425,62119,35660,jueves,2023-04-13T14:30,23.49
+4578,86,putumayo,86573,puerto leguizamo,86573009,piñuña negro (puerto leguizamo - putumayo),2024,9,2634,1652,256,sabado,2024-09-14T20:00,5.2
+3124,99,vichada,99001,puerto carreño,99001002,casuarito (puerto carreño - vichada),2021,3,30702,11079,10419,miercoles,2021-03-03T20:00,11.5
+1737,52,nariño,52696,santa barbara,52696022,secadero (santa barbara - nariño),2022,8,3181,1535,1462,jueves,2022-08-11T19:15,9.02
+2971,19,cauca,19418,lopez de micay,19418033,boca grande (lopez (micay) - cauca),2021,4,4639,1015,3328,jueves,2021-04-22T19:30,5.39
+4217,19,cauca,19809,timbiqui,19809007,san jose (timbiqui - cauca),2024,8,5736,4008,3566,jueves,2024-08-29T19:00,6.23
+2183,27,choco,27800,unguia,27800000,unguia (unguia - choco),2022,2,164425,62119,35660,lunes,2022-02-21T20:45,22.24
+2345,27,choco,27495,nuqui,27495000,nuqui (nuqui - choco),2021,12,164425,62119,35660,domingo,2021-12-19T19:00,23.54
+4060,19,cauca,19809,timbiqui,19809014,chacon (timbiqui - cauca),2020,2,2019,364,2664,sabado,2020-02-01T19:15,3.12
+3509,52,nariño,52835,san andres de tumaco,52835148,tablon dulce la pampa (tumaco - nariño),2020,10,3964,1413,2605,sabado,2020-10-24T18:45,6.16
+2115,52,nariño,52390,la tola,52390016,san pablo del mar (la tola - nariño),2022,3,4059,1221,2963,martes,2022-03-29T19:00,6.0
+215,52,nariño,52427,magüi,52427915,las lajas (magüi - nariño),2024,5,0,0,0,miercoles,2024-05-01T12:00,0.0
+799,18,caqueta,18753,san vicente del caguan,18753009,puerto betania (san vicente del caguan - caqueta),2023,8,4927,2037,374,miercoles,2023-08-16T20:15,6.1
+3257,95,guaviare,95200,miraflores,95200000,miraflores (miraflores - guaviare),2021,1,77890,28686,187,jueves,2021-01-28T18:45,19.15
+1667,97,vaupes,97666,taraira,97666000,taraira (taraira - vaupes),2022,9,33335,9960,13006,martes,2022-09-27T18:15,11.18
+4547,27,choco,27495,nuqui,27495001,arusi (nuqui - choco),2024,9,20329,7822,60,martes,2024-09-24T19:45,15.51
+1559,27,choco,27495,nuqui,27495912,comunidad indigena de pangui - el yucal (nuqui - choco),2022,10,7515,1688,1148,martes,2022-10-11T09:30,23.22
+3977,13,bolivar,13001,cartagena de indias,13001017,santa cruz del islote (cartagena de indias - bolivar),2020,3,13572,4807,4384,lunes,2020-03-30T20:45,13.35
+1537,19,cauca,19418,lopez de micay,19418038,isla de gallo (lopez de micay - cauca),2022,10,2978,1499,2522,viernes,2022-10-28T18:45,4.59
+197,27,choco,27495,nuqui,27495000,nuqui (nuqui - choco),2024,5,164425,62119,35660,jueves,2024-05-30T19:30,23.57
+1211,99,vichada,99001,puerto carreño,99001000,puerto carreño (puerto carreño - vichada),2023,3,164425,62119,35660,jueves,2023-03-23T14:30,23.58
+1403,19,cauca,19318,guapi,19318013,san antonio de guajui (guapi - cauca),2022,12,11961,6086,5648,sabado,2022-12-03T19:15,9.0
+932,13,bolivar,13001,cartagena de indias,13001017,santa cruz del islote (cartagena de indias - bolivar),2023,6,3644,1139,1856,jueves,2023-06-29T20:45,8.05
+4255,52,nariño,52835,san andres de tumaco,52835055,bocas de curay (san andres de tumaco - nariño),2024,8,6641,2521,48,martes,2024-08-06T19:00,5.54
+3821,99,vichada,99001,puerto carreño,99001000,puerto carreño (puerto carreño - vichada),2020,6,164425,62119,4004,jueves,2020-06-04T14:30,23.29
+4449,27,choco,27025,alto baudo,27025000,ciudad baudo - pie de pato (alto baudo - choco),2024,12,52657,18317,11898,jueves,2024-12-12T12:00,23.93
+2868,27,choco,27495,nuqui,27495011,puerto jagua (nuqui - choco),2021,6,919,389,384,martes,2021-06-15T19:45,10.18
+4029,86,putumayo,86573,puerto leguizamo,86573000,puerto leguizamo (puerto leguizamo - putumayo),2020,3,164425,62119,35660,martes,2020-03-17T14:30,23.58
+2032,52,nariño,52835,tumaco,52835055,bocas de curay (tumaco - nariño),2022,4,9019,2817,552,sabado,2022-04-23T19:30,7.1
+4531,27,choco,27077,bajo baudo,27077026,guineal (bajo baudo - choco),2024,9,3584,1792,348,miercoles,2024-09-04T19:15,5.34
+97,19,cauca,19809,timbiqui,19809014,chacon (timbiqui - cauca),2024,7,4464,1154,2222,domingo,2024-07-21T20:30,8.35
+803,19,cauca,19418,lopez de micay,19418038,isla de gallo (lopez de micay - cauca),2023,8,4899,2448,2829,sabado,2023-08-05T20:15,7.24
+140,52,nariño,52390,la tola,52390003,la vigia de la mar (la tola - nariño),2024,7,6165,2772,2596,sabado,2024-07-20T12:30,11.23
+4645,88,archipielago de san andres y providencia,88001,san andres,88001000,san andres,2025,3,164425,62119,35660,martes,2025-03-25T15:45,23.98
+3283,5,antioquia,5873,vigia del fuerte,5873001,san antonio de padua (vigia del fuerte - antioquia),2020,12,4556,1730,3475,jueves,2020-12-31T19:15,5.34
+3802,52,nariño,52490,olaya herrera,52490913,boca de prieta (olaya herrera - nariño),2020,6,4797,962,2366,miercoles,2020-06-10T17:00,7.15
+2019,27,choco,27250,el litoral del san juan,27250000,santa genoveva de docordo (el litoral del san juan - choco),2022,4,54053,29739,1687,viernes,2022-04-08T18:30,18.8
+3884,97,vaupes,97161,caruru,97161000,caruru (caruru - vaupes),2020,5,19310,6265,733,sabado,2020-05-09T18:45,12.07
+1836,18,caqueta,18150,cartagena del chaira,18150001,santa fe del caguan (cartagena del chaira - caqueta),2022,6,3731,1864,416,jueves,2022-06-09T18:45,4.27
+2655,18,caqueta,18753,san vicente del caguan,18753009,puerto betania (san vicente del caguan - caqueta),2021,8,5662,2226,4604,viernes,2021-08-27T18:30,5.3
+464,13,bolivar,13001,cartagena de indias,13001037,isla mucura (cartagena de indias - bolivar),2024,4,5570,2018,2227,jueves,2024-04-04T22:00,10.11
+2068,19,cauca,19318,guapi,19318008,limones (guapi - cauca),2022,3,8709,3984,3847,jueves,2022-03-17T19:30,9.25
+1159,27,choco,27077,bajo baudo (pizarro),27077029,firme de usarga (bajo baudo (pizarro) - choco),2023,3,1039,333,802,viernes,2023-03-31T22:45,6.15
+4280,13,bolivar,13001,cartagena de indias,13001037,isla mucura (cartagena de indias - bolivar),2024,10,0,0,0,martes,2024-10-01T00:00,0.0
+595,13,bolivar,13001,cartagena de indias,13001037,isla mucura (cartagena de indias - bolivar),2023,11,6626,2557,2746,martes,2023-11-28T23:00,11.33
+3760,88,"archipielago de san andres, providencia y santa catalina",88564,providencia,88564000,providencia (providencia - archipielago de san andres y providencia),2020,6,164425,62119,35660,lunes,2020-06-08T22:45,8.21
+3558,27,choco,27250,el litoral del san juan,27250000,santa genoveva de docordo (el litoral del san juan - choco),2020,9,64517,31952,16236,martes,2020-09-22T19:30,16.53
+2147,19,cauca,19318,guapi,19318008,limones (guapi - cauca),2022,2,7453,3213,4079,viernes,2022-02-25T17:00,9.27
+1053,97,vaupes,97161,caruru,97161000,caruru (caruru - vaupes),2023,5,25644,10473,8404,domingo,2023-05-28T18:45,12.18
+2828,13,bolivar,13001,cartagena de indias,13001017,santa cruz del islote (cartagena de indias - bolivar),2021,6,18743,6651,4691,martes,2021-06-29T22:15,17.42
+4148,19,cauca,19809,timbiqui,19809008,santa maria (timbiqui - cauca),2020,1,12368,4382,752,martes,2020-01-28T19:30,6.36
+1887,52,nariño,52696,santa barbara (iscuande),52696022,secadero (santa barbara (iscuande) - nariño),2022,6,3022,1516,148,sabado,2022-06-04T12:45,9.02
+1617,27,choco,27006,acandi,27006007,san francisco (acandi - choco),2022,9,7005,2613,3365,jueves,2022-09-29T19:00,9.44
+151,86,putumayo,86573,puerto leguizamo,86573009,piñuña negro (puerto leguizamo - putumayo),2024,7,2684,1626,224,sabado,2024-07-06T17:00,5.24
+1262,27,choco,27800,unguia,27800005,titumate (unguia - choco),2023,2,15726,3837,9196,viernes,2023-02-24T20:45,9.04
+3330,47,magdalena,47189,cienaga,47189018,palmor (cienaga - magdalena),2020,12,90408,35239,19488,domingo,2020-12-27T18:30,23.2
+2371,86,putumayo,86573,puerto leguizamo,86573009,piñuña negro (puerto leguizamo - putumayo),2021,12,4492,2941,288,sabado,2021-12-25T17:30,7.28
+3175,27,choco,27800,unguia,27800001,balboa (unguia - choco),2021,2,18818,7894,8463,sabado,2021-02-27T19:00,10.16
+458,97,vaupes,97001,mitu,97001000,mitu (mitu - vaupes),2024,3,164425,62119,35660,viernes,2024-03-22T12:00,23.59
+2365,52,nariño,52490,olaya herrera,52490913,boca de prieta (olaya herrera - nariño),2021,12,2876,800,193,miercoles,2021-12-01T19:30,7.31
+3338,52,nariño,52390,la tola,52390003,la vigia de la mar (la tola - nariño),2020,12,6070,2214,3188,viernes,2020-12-25T18:45,8.21
+1324,27,choco,27006,acandi,27006007,san francisco (acandi - choco),2023,1,27055,9744,13694,sabado,2023-01-07T20:00,9.19
+240,18,caqueta,18150,cartagena del chaira,18150001,remolino del caguan (cartagena del chaira - caqueta),2024,1,17412,6532,9636,sabado,2024-01-27T19:45,7.34
+4367,19,cauca,19809,timbiqui,19809014,chacon (timbiqui - cauca),2024,11,4732,1158,2317,domingo,2024-11-24T19:15,8.34
+1840,19,cauca,19809,timbiqui,19809003,coteje (timbiqui - cauca),2022,6,6034,4499,317,martes,2022-06-07T19:30,7.7
+2727,99,vichada,99624,santa rosalia,99624000,santa rosalia (santa rosalia - vichada),2021,8,134645,62119,34637,jueves,2021-08-26T18:45,18.12
+3319,27,choco,27372,jurado,27372000,jurado (jurado - choco),2020,12,158215,62119,2864,jueves,2020-12-17T21:00,23.57
+3455,19,cauca,19318,guapi,19318008,limones (guapi - cauca),2020,10,7396,2067,6662,domingo,2020-10-18T18:15,4.22
+804,19,cauca,19418,lopez de micay,19418009,noanamito (lopez de micay - cauca),2023,8,7844,2996,36,domingo,2023-08-06T19:30,9.57
+4061,19,cauca,19809,timbiqui,19809010,comunidad de chete (timbiqui - cauca),2020,2,2489,695,4003,viernes,2020-02-21T19:30,2.3
+3356,97,vaupes,97001,mitu,97001000,mitu (mitu - vaupes),2020,12,164425,62119,35660,lunes,2020-12-15T00:00,24.0
+808,19,cauca,19809,timbiqui,19809014,chacon (timbiqui - cauca),2023,8,3707,1081,2448,miercoles,2023-08-09T19:00,6.18
+2657,19,cauca,19318,guapi,19318008,limones (guapi - cauca),2021,8,8950,3734,3747,sabado,2021-08-21T20:15,10.0
+3739,52,nariño,52835,san andres de tumaco,52835217,san juan de la costa (san andres de tumaco - nariño),2020,7,28968,23021,1536,miercoles,2020-07-01T19:15,8.22
+2674,27,choco,27075,bahia solano (mutis),27075000,ciudad mutis (bahia solano - choco),2021,8,164425,62119,35660,lunes,2021-08-02T19:15,23.52
+1438,52,nariño,52696,santa barbara (iscuande),52696014,la ensenada (santa barbara (iscuande) - nariño),2022,12,3126,5509,2218,martes,2022-12-06T20:30,5.48
+4010,95,guaviare,95200,miraflores,95200000,miraflores (miraflores - guaviare),2020,3,83195,29350,20812,miercoles,2020-03-11T18:45,18.44
+4034,97,vaupes,97666,taraira,97666000,taraira (taraira - vaupes),2020,3,31036,10140,11669,jueves,2020-03-19T18:30,11.05
+3484,27,choco,27745,sipi,27745000,sipi (sipi - choco),2020,10,10987,3835,748,sabado,2020-10-31T18:45,5.52
+2641,99,vichada,99624,santa rosalia,99624000,santa rosalia (santa rosalia - vichada),2021,9,135039,62119,34397,lunes,2021-09-20T18:45,18.9
+2820,91,amazonas,91001,leticia,91001000,leticia (leticia - amazonas),2021,6,164425,62119,35660,jueves,2021-06-10T14:45,24.0
+100,19,cauca,19809,timbiqui,19809009,santa rosa de saija (timbiqui - cauca),2024,7,3295,1109,198,lunes,2024-07-22T19:45,6.32
+3221,18,caqueta,18753,san vicente del caguan,18753002,guacamayas (san vicente del caguan - caqueta),2021,1,11816,5099,4258,sabado,2021-01-02T19:00,17.08
+4583,76,valle del cauca,76109,buenaventura,76109028,puerto merizalde (buenaventura - valle del cauca),2024,9,94103,31620,20645,viernes,2024-09-27T20:15,20.93
+192,27,choco,27425,medio atrato,27425008,san roque (medio atrato - choco),2024,5,2481,1112,1915,miercoles,2024-05-15T19:30,6.04
+1181,44,la guajira,44847,uribia,44847012,nazareth (uribia - la guajira),2023,3,61337,11434,33178,jueves,2023-03-23T19:30,10.08
+1863,27,choco,27077,bajo baudo (pizarro),27077905,piliza (bajo baudo (pizarro) - choco),2022,6,5760,4579,352,martes,2022-06-07T18:30,6.75
+1058,52,nariño,52250,el charco,52250007,san jose del tapaje (el charco - nariño),2023,5,12742,4454,56,martes,2023-05-02T18:00,9.24
+3259,47,magdalena,47189,cienaga,47189018,palmor (cienaga - magdalena),2021,1,102284,40811,19667,sabado,2021-01-09T18:15,23.13
+1899,99,vichada,99624,santa rosalia,99624000,santa rosalia (santa rosalia - vichada),2022,6,134535,62119,334,miercoles,2022-06-22T18:30,18.45
+4533,27,choco,27077,bajo baudo,27077011,piliza - bellavista - villa luz (bajo baudo - choco),2024,9,1504,394,32,viernes,2024-09-06T18:45,2.1
+1182,47,magdalena,47189,cienaga,47189018,palmor (cienaga - magdalena),2023,3,96521,33853,19302,sabado,2023-03-04T18:45,23.29
+4660,99,vichada,99773,cumaribo,99773000,cumaribo,2025,3,164425,62119,35660,miercoles,2025-03-26T15:00,23.73
+894,27,choco,27250,el litoral del san juan,27250000,santa genoveva de docordo (el litoral del san juan - choco),2023,7,103973,56702,24631,jueves,2023-07-20T12:45,20.28
+2656,85,casanare,85430,trinidad,85430001,bocas del pauto (trinidad - casanare),2021,8,12634,7253,8243,martes,2021-08-31T18:45,6.28
+3612,18,caqueta,18150,cartagena del chaira,18150001,remolino del caguan (cartagena del chaira - caqueta),2020,8,15847,7998,8123,sabado,2020-08-29T19:15,8.23
+2267,94,guainia,94343,barrancominas,94343000,barrancominas (barrancominas - guainia),2022,1,60972,19836,20286,domingo,2022-01-02T18:30,14.14
+927,5,antioquia,5873,vigia del fuerte,5873002,vegaez (vigia del fuerte - antioquia),2023,6,4562,657,439,jueves,2023-06-15T16:45,6.15
+2093,27,choco,27425,medio atrato (bete),27425000,bete (medio atrato (bete) - choco),2022,3,11625,7199,60,jueves,2022-03-24T20:15,8.34
+1420,27,choco,27425,medio atrato (bete),27425000,bete (medio atrato (bete) - choco),2022,12,15513,9438,56,lunes,2022-12-05T11:45,12.41
+1612,19,cauca,19809,timbiqui,19809010,comunidad de chete (timbiqui - cauca),2022,9,2769,994,3824,viernes,2022-09-09T19:00,4.22
+3565,27,choco,27800,unguia,27800000,unguia (unguia - choco),2020,9,164425,62119,35660,jueves,2020-09-17T19:15,16.04
+4590,99,vichada,99001,puerto carreño,99001000,puerto carreño (puerto carreño - vichada),2024,9,164425,62119,35660,jueves,2024-09-12T13:45,24.0
+3993,27,choco,27075,bahia solano (mutis),27075002,el valle (bahia solano - choco),2020,3,133948,62119,35660,sabado,2020-03-14T19:00,20.57
+3976,13,bolivar,13001,cartagena de indias,13001037,isla mucura (cartagena de indias - bolivar),2020,3,6799,3093,2424,jueves,2020-03-05T22:00,13.18
+2198,52,nariño,52490,olaya herrera,52490913,boca de prieta (olaya herrera - nariño),2022,2,2187,624,1704,viernes,2022-02-18T17:45,6.29
+167,19,cauca,19809,timbiqui,19809010,comunidad de chete (timbiqui - cauca),2024,5,4502,1728,504,martes,2024-05-27T07:00,5.54
+3788,27,choco,27745,sipi,27745000,sipi (sipi - choco),2020,6,10264,3066,792,martes,2020-06-02T19:00,21.34
+2442,52,nariño,52250,el charco,52250023,bazan (el charco - nariño),2021,11,19668,12482,1008,jueves,2021-11-11T19:30,8.09
+1747,99,vichada,99524,la primavera,99524000,la primavera (la primavera - vichada),2022,8,164425,62119,6693,lunes,2022-08-08T18:45,23.92
+1322,19,cauca,19809,timbiqui,19809009,santa rosa de saija (timbiqui - cauca),2023,1,3474,1741,2069,martes,2023-01-31T19:15,6.48
+3108,52,nariño,52835,san andres de tumaco,52835055,bocas de curay (tumaco - nariño),2021,3,9526,5024,60,domingo,2021-03-28T23:45,6.38
+96,19,cauca,19418,lopez de micay,19418009,noanamito (lopez de micay - cauca),2024,7,6151,2827,40,sabado,2024-07-13T19:15,6.42
+4548,27,choco,27495,nuqui,27495011,comunidad de puerto jagua (nuqui - choco),2024,9,881,391,612,domingo,2024-09-29T20:00,5.92
+4447,27,choco,27006,acandi,27006000,acandi (acandi - choco),2024,12,164425,62119,35660,jueves,2024-12-05T22:00,20.16
+2192,52,nariño,52250,el charco,52250007,san jose del tapaje (el charco - nariño),2022,2,12832,3306,80,lunes,2022-02-28T21:00,6.52
+1966,76,valle del cauca,76109,buenaventura,76109028,puerto merizalde (buenaventura - valle del cauca),2022,5,81388,28005,21384,domingo,2022-05-01T20:30,15.63
+81,19,cauca,19318,guapi,19318008,limones (guapi - cauca),2024,5,8580,3745,4296,miercoles,2024-05-29T19:15,8.45
+2389,88,"archipielago de san andres, providencia y santa catalina",88001,san andres,88001000,san andres (san andres - archipielago de san andres y providencia),2021,11,164425,62119,35660,martes,2021-11-02T15:30,24.0
+3584,52,nariño,52835,san andres de tumaco,52835212,pueblo nuevo (tablon salado) (tumaco - nariño),2020,9,3079,1353,1635,domingo,2020-09-20T23:30,8.36
+4238,27,choco,27425,medio atrato,27425008,san roque (medio atrato - choco),2024,8,1568,681,2153,sabado,2024-08-17T20:00,3.43
+2836,19,cauca,19418,lopez de micay,19418024,betania - naya (lopez (micay) - cauca),2021,6,6346,2215,2952,sabado,2021-06-26T19:45,8.54
+153,76,valle del cauca,76109,buenaventura,76109105,pital (buenaventura - valle del cauca),2024,7,2224,642,1069,martes,2024-07-16T17:45,8.32
+4365,19,cauca,19318,guapi,19318013,san antonio de guajui (guapi - cauca),2024,11,11343,6343,5343,miercoles,2024-11-20T19:15,9.03
+2241,19,cauca,19809,timbiqui,19809023,puerto saija (timbiqui - cauca),2022,1,24669,11861,15154,miercoles,2022-01-19T20:00,6.26
+1428,95,guaviare,95200,miraflores,95200000,miraflores (miraflores - guaviare),2022,12,84461,29297,20372,jueves,2022-12-01T18:30,18.09
+765,52,nariño,52250,el charco,52250003,bolivar - san pedro (el charco - nariño),2023,9,2463,2059,2854,miercoles,2023-09-13T18:45,4.2
+1169,27,choco,27250,el litoral del san juan,27250000,santa genoveva de docordo (el litoral del san juan - choco),2023,3,85802,45692,22466,sabado,2023-03-18T09:15,17.08
+3715,27,choco,27425,medio atrato (bete),27425000,bete (medio atrato (bete) - choco),2020,7,15454,6948,76,viernes,2020-07-31T20:00,9.52
+795,13,bolivar,13001,cartagena de indias,13001037,isla mucura (cartagena de indias - bolivar),2023,8,7212,2912,2384,sabado,2023-08-19T23:30,13.47
+2518,27,choco,27800,unguia,27800000,unguia (unguia - choco),2021,10,164425,62119,35660,domingo,2021-10-24T20:00,22.0
+743,27,choco,27075,bahia solano (mutis),27075002,el valle (bahia solano - choco),2023,9,164425,62119,35660,miercoles,2023-09-06T19:15,22.5
+3244,27,choco,27099,bojaya (bellavista),27099000,bellavista (bojaya (bellavista) - choco),2021,1,58380,18188,20717,lunes,2021-01-18T19:00,12.33
+1256,27,choco,27495,nuqui,27495912,comunidad indigena de pangui - el yucal (nuqui - choco),2023,2,626,338,701,viernes,2023-02-10T09:15,5.24
+1897,99,vichada,99524,la primavera,99524000,la primavera (la primavera - vichada),2022,6,164425,62119,6322,martes,2022-06-21T18:45,23.97
+3586,52,nariño,52835,san andres de tumaco,52835091,santa rosa (tumaco - nariño),2020,9,1742,524,3181,sabado,2020-09-05T19:15,2.18
+2816,99,vichada,99524,la primavera,99524000,la primavera (la primavera - vichada),2021,7,164425,62119,35660,lunes,2021-07-12T18:30,24.0
+4130,88,"archipielago de san andres, providencia y santa catalina",88001,san andres,88001000,san andres (san andres - archipielago de san andres y providencia),2020,1,164425,62119,35660,viernes,2020-01-03T15:45,24.0
+1116,52,nariño,52490,olaya herrera,52490913,boca de prieta (olaya herrera - nariño),2023,4,2820,744,1694,martes,2023-04-04T18:15,6.56
+310,76,valle del cauca,76109,buenaventura,76109957,humanes mar (buenaventura - valle del cauca),2024,1,4912,1317,2748,martes,2024-01-02T10:30,8.0
+2352,94,guainia,94001,inirida,94001000,inirida (inirida - guainia),2021,12,164425,62119,35660,lunes,2021-12-06T17:45,24.0
+2750,19,cauca,19418,lopez de micay,19418015,san isidro (lopez de micay - cauca),2021,7,897,334,598,sabado,2021-07-31T17:30,6.23
+3772,19,cauca,19809,timbiqui,19809003,coteje (timbiqui - cauca),2020,6,6029,3486,3316,martes,2020-06-23T19:15,5.32
+528,19,cauca,19809,timbiqui,19809010,comunidad de chete (timbiqui - cauca),2023,12,4824,1952,4051,sabado,2023-12-30T06:30,6.68
+1778,27,choco,27025,alto baudo (pie de pato),27025000,ciudad baudo (alto baudo (pie de pato) - choco),2022,7,46705,62119,10859,sabado,2022-07-30T12:00,23.93
+3258,44,la guajira,44847,uribia,44847012,nazareth (uribia - la guajira),2021,1,27520,12331,22128,jueves,2021-01-28T18:45,5.39
+3677,99,vichada,99773,cumaribo,99773000,cumaribo (cumaribo - vichada),2020,8,164425,62119,35660,jueves,2020-08-20T23:30,23.39
+496,52,nariño,52390,la tola,52390009,mulatos (la tola - nariño),2024,4,4389,2609,2973,lunes,2024-04-22T19:30,7.31
+1514,97,vaupes,97666,taraira,97666000,taraira (taraira - vaupes),2022,11,34410,9596,13341,miercoles,2022-11-09T12:30,11.09
+185,27,choco,27099,bojaya,27099000,bellavista (bojaya (bellavista) - choco),2024,5,84005,23959,29923,sabado,2024-05-06T20:00,12.24
+206,47,magdalena,47189,cienaga,47189018,palmor (cienaga - magdalena),2024,5,92841,32703,17478,sabado,2024-05-04T12:00,22.36
+411,19,cauca,19418,lopez de micay,19418015,san isidro (lopez de micay - cauca),2024,3,682,391,733,sabado,2024-03-02T19:45,4.23
+1801,52,nariño,52250,el charco,52250023,bazan (el charco - nariño),2022,7,19109,6756,96,sabado,2022-07-09T19:15,7.95
+2362,52,nariño,52390,la tola,52390003,la vigia de la mar (la tola - nariño),2021,12,6502,2950,3152,miercoles,2021-12-08T23:15,9.35
+3705,27,choco,27025,alto baudo (pie de pato),27025000,ciudad baudo - pie de pato (alto baudo - choco),2020,7,22622,6463,13226,miercoles,2020-07-08T19:15,8.45
+4437,13,bolivar,13001,cartagena de indias,13001037,isla mucura (cartagena de indias - bolivar),2024,12,6690,2262,2218,lunes,2024-12-30T23:00,12.05
+306,52,nariño,52490,olaya herrera,52490913,boca de prieta (olaya herrera - nariño),2024,1,2544,748,1454,miercoles,2024-01-17T18:45,6.31
+2457,86,putumayo,86573,puerto leguizamo,86573000,puerto leguizamo (puerto leguizamo - putumayo),2021,11,164425,62119,35660,martes,2021-11-16T15:15,23.53
+169,19,cauca,19809,timbiqui,19809026,los brazos (timbiqui - cauca),2024,5,7285,3271,3734,domingo,2024-05-12T20:00,8.0
+2795,52,nariño,52520,francisco pizarro,52520013,san pedro del vino (francisco pizarro - nariño),2021,7,4411,2141,2906,sabado,2021-07-10T19:15,6.3
+3990,27,choco,27025,alto baudo (pie de pato),27025000,ciudad baudo - pie de pato (alto baudo - choco),2020,3,47621,13704,12478,viernes,2020-03-27T19:30,18.02
+4290,19,cauca,19809,timbiqui,19809010,comunidad de chete (timbiqui - cauca),2024,10,4853,1895,3229,miercoles,2024-10-30T18:30,6.09
+3425,52,nariño,52835,san andres de tumaco,52835055,bocas de curay (tumaco - nariño),2020,11,3836,1964,576,domingo,2020-11-29T18:45,2.53
+3280,99,vichada,99001,puerto carreño,99001000,puerto carreño (puerto carreño - vichada),2021,1,164425,62119,35660,martes,2021-01-26T14:15,24.0
+1958,52,nariño,52390,la tola,52390005,mulatos (la tola - nariño),2022,5,4427,2217,3597,lunes,2022-05-16T17:30,6.32
+4460,27,choco,27250,el litoral del san juan,27250023,papayo (el litoral del san juan - choco),2024,12,3939,1446,17,martes,2024-12-31T15:45,9.39
+212,52,nariño,52390,la tola,52390009,mulatos (la tola - nariño),2024,5,4050,2490,305,miercoles,2024-05-01T17:00,7.0
+2838,19,cauca,19418,lopez de micay,19418038,isla de gallo (lopez de micay - cauca),2021,6,3590,1456,2458,sabado,2021-06-26T18:30,5.58
+85,91,amazonas,91540,puerto nariño,91540000,puerto nariño (puerto nariño - amazonas),2024,7,132554,42294,2704,miercoles,2024-07-24T18:15,24.0
+2314,19,cauca,19418,lopez de micay,19418009,noanamito (lopez de micay - cauca),2021,12,6828,1988,52,domingo,2021-12-19T20:30,6.36
+4289,19,cauca,19809,timbiqui,19809014,chacon (timbiqui - cauca),2024,10,4237,1000,2355,sabado,2024-10-26T18:30,7.21
+1877,52,nariño,52835,tumaco,52835055,bocas de curay (tumaco - nariño),2022,6,7273,2379,576,viernes,2022-06-03T19:15,5.88
+4295,27,choco,27025,alto baudo,27025000,ciudad baudo - pie de pato (alto baudo - choco),2024,10,49525,17855,13666,sabado,2024-10-05T11:30,20.7
+1114,52,nariño,52427,magüi,52427901,alto estero (magüi - nariño),2023,4,618,176,1235,jueves,2023-04-13T19:45,1.53
+3409,95,guaviare,95200,miraflores,95200000,miraflores (miraflores - guaviare),2020,11,80296,28321,19492,lunes,2020-11-30T18:30,19.06
+970,52,nariño,52250,el charco,52250023,bazan (el charco - nariño),2023,6,23440,9203,1056,lunes,2023-06-05T19:00,9.21
+788,99,vichada,99001,puerto carreño,99001000,puerto carreño (puerto carreño - vichada),2023,9,164425,62119,35660,jueves,2023-09-28T14:15,23.52
+4075,27,choco,27099,bojaya (bellavista),27099000,bellavista (bojaya (bellavista) - choco),2020,2,89554,33314,22095,jueves,2020-02-13T20:30,18.14
+2548,97,vaupes,97666,taraira,97666000,taraira (taraira - vaupes),2021,10,22286,6711,13385,martes,2021-10-19T00:30,7.25
+3396,27,choco,27099,bojaya (bellavista),27099005,napipi (bojaya (bellavista) - choco),2020,11,8978,2942,608,lunes,2020-11-23T20:15,5.45
+2926,94,guainia,94343,barrancominas,94343000,barrancominas (barrancominas - guainia),2021,5,51807,15993,16412,viernes,2021-05-28T18:45,13.37
+3955,86,putumayo,86573,puerto leguizamo,86573009,piñuña negro (puerto leguizamo - putumayo),2020,4,2734,1311,224,domingo,2020-04-26T20:45,5.08
+1733,52,nariño,52250,el charco,52250007,san jose del tapaje (el charco - nariño),2022,8,10774,3562,56,lunes,2022-08-01T20:30,7.61
+2125,97,vaupes,97161,caruru,97161000,caruru (caruru - vaupes),2022,3,22260,5712,9566,miercoles,2022-03-16T18:45,11.7
+995,88,"archipielago de san andres, providencia y santa catalina",88564,providencia,88564000,providencia (providencia - archipielago de san andres y providencia),2023,5,164425,62119,35660,martes,2023-05-30T22:15,24.0
+181,27,choco,27077,bajo baudo,27077008,orpua (bajo baudo - choco),2024,5,705,288,571,lunes,2024-05-13T18:00,7.3
+3991,27,choco,27075,bahia solano (mutis),27075000,ciudad mutis (bahia solano - choco),2020,3,164425,62119,35660,miercoles,2020-03-04T19:00,23.46
+433,27,choco,27425,medio atrato,27425008,san roque (medio atrato - choco),2024,3,560,224,1507,jueves,2024-03-14T20:30,1.39
+290,94,guainia,94343,barranco minas,94343000,barranco minas (barranco minas - guainia),2024,1,84069,23303,21433,lunes,2024-01-29T13:30,16.28
+3839,19,cauca,19809,timbiqui,19809003,coteje (timbiqui - cauca),2020,5,6713,3756,3452,viernes,2020-05-08T19:45,7.18
+1613,19,cauca,19809,timbiqui,19809023,puerto saija (timbiqui - cauca),2022,9,28143,9247,16896,miercoles,2022-09-21T19:00,6.76
+536,27,choco,27025,alto baudo,27025000,ciudad baudo - pie de pato (alto baudo - choco),2023,12,52554,19319,11563,miercoles,2023-12-27T12:00,23.59
+1489,27,choco,27001,quibdo,27001029,tagachi (quibdo - choco),2022,11,7921,2993,4414,jueves,2022-11-10T13:30,7.42
+189,27,choco,27250,el litoral del san juan,27250000,santa genoveva de docordo (el litoral del san juan - choco),2024,5,36700,17118,25634,viernes,2024-05-31T19:30,6.0
+2446,52,nariño,52390,la tola,52390003,la vigia de la mar (la tola - nariño),2021,11,5853,2524,2976,viernes,2021-11-12T23:15,9.3
+1546,27,choco,27025,alto baudo (pie de pato),27025000,ciudad baudo - pie de pato (alto baudo - choco),2022,10,46775,15075,12514,domingo,2022-10-30T11:30,22.54
+280,27,choco,27425,medio atrato,27425008,san roque (medio atrato - choco),2024,1,0,0,17,martes,2024-01-23T16:00,0.0
+367,94,guainia,94001,inirida,94001966,laguna colorada alta (inirida - guainia),2024,2,8558,434,2831,lunes,2024-02-19T18:15,17.21
+3423,52,nariño,52490,olaya herrera,52490913,boca de prieta (olaya herrera - nariño),2020,11,2643,719,24,domingo,2020-11-15T17:30,6.48
+2944,86,putumayo,86573,puerto leguizamo,86573009,piñuña negro (puerto leguizamo - putumayo),2021,5,4428,2394,288,domingo,2021-05-16T20:00,7.15
+271,27,choco,27077,bajo baudo,27077019,virudo (bajo baudo - choco),2024,1,6200,2346,303,viernes,2024-01-26T20:00,8.28
+3566,94,guainia,94343,barrancominas,94343000,barrancominas (barrancominas - guainia),2020,9,39983,13982,17609,lunes,2020-09-21T18:00,9.17
+1570,52,nariño,52250,el charco,52250023,bazan (el charco - nariño),2022,10,19728,6308,912,viernes,2022-10-07T18:45,8.2
+2706,52,nariño,52390,la tola,52390013,amarales (la tola - nariño),2021,8,6967,1817,5558,miercoles,2021-08-11T19:15,5.32
+1861,27,choco,27099,bojaya (bellavista),27099000,napipi (bojaya (bellavista) - choco),2022,6,8914,2289,608,sabado,2022-06-04T18:45,6.0
+3232,19,cauca,19809,timbiqui,19809010,comunidad de chete (timbiqui - cauca),2021,1,3741,1187,3974,miercoles,2021-01-13T19:30,3.38
+112,27,choco,27077,bajo baudo,27077916,terron (bajo baudo - choco),2024,7,3828,1591,2757,jueves,2024-07-25T13:00,7.03
+2187,44,la guajira,44847,uribia,44847012,nazareth (uribia - la guajira),2022,2,23811,10629,10344,jueves,2022-02-10T19:15,12.49
+368,95,guaviare,95200,miraflores,95200000,miraflores (miraflores - guaviare),2024,2,89338,27538,21692,sabado,2024-02-24T18:45,18.34
+1768,19,cauca,19809,timbiqui,19809003,puerto saija (timbiqui - cauca),2022,7,26533,62119,17336,domingo,2022-07-24T19:15,6.1
+221,52,nariño,52696,santa barbara,52696014,la ensenada (santa barbara - nariño),2024,5,3712,4191,2093,miercoles,2024-05-01T20:00,7.03
+3967,91,amazonas,91001,leticia,91001000,leticia (leticia - amazonas),2020,3,164425,62119,35660,jueves,2020-03-12T15:15,24.0
+1346,27,choco,27495,nuqui,27495912,comunidad indigena de pangui - el yucal (nuqui - choco),2023,1,6151,1683,1138,lunes,2023-01-02T14:00,21.02
+3164,27,choco,27099,bojaya (bellavista),27099000,bellavista (bojaya (bellavista) - choco),2021,2,26895,8876,22211,martes,2021-02-09T19:30,6.26
+2343,27,choco,27425,medio atrato (bete),27425008,san roque (medio atrato (bete) - choco),2021,12,4173,1301,2554,viernes,2021-12-24T18:45,6.33
+2943,52,nariño,52696,santa barbara (iscuande),52696022,secadero (santa barbara (iscuande) - nariño),2021,5,2719,1876,1325,miercoles,2021-05-26T18:45,8.59
+3858,27,choco,27495,nuqui,27495000,nuqui (nuqui - choco),2020,5,164425,62119,4671,miercoles,2020-05-13T19:30,21.56
+462,88,archipielago de san andres y providencia,88001,san andres,88001000,san andres (san andres - archipielago de san andres y providencia ),2024,4,164425,62119,35660,jueves,2024-04-25T15:45,24.0
+4109,52,nariño,52696,santa barbara (iscuande),52696014,la ensenada (santa barbara (iscuande) - nariño),2020,2,4071,4702,2749,domingo,2020-02-16T19:30,5.44
+3927,27,choco,27495,nuqui,27495912,comunidad indigena de pangui - el yucal (nuqui - choco),2020,4,3676,1170,113,lunes,2020-04-13T15:30,18.18
+552,27,choco,27425,medio atrato,27425008,san roque (medio atrato - choco),2023,12,0,0,0,viernes,2023-12-01T00:00,0.0
+812,27,choco,27006,acandi,27006000,acandi (acandi - choco),2023,8,164425,62119,35660,viernes,2023-08-04T22:00,20.09
+834,94,guainia,94001,inirida,94001000,inirida (inirida - guainia),2023,8,164425,62119,35660,viernes,2023-08-18T14:30,24.0
+3351,86,putumayo,86573,puerto leguizamo,86573009,piñuña negro (puerto leguizamo - putumayo),2020,12,4154,2386,288,jueves,2020-12-31T21:00,6.22
+1393,88,"archipielago de san andres, providencia y santa catalina",88001,san andres,88001000,san andres (san andres - archipielago de san andres y providencia),2022,12,164425,62119,35660,viernes,2022-12-16T15:30,23.59
+1435,52,nariño,52390,la tola,52390009,mulatos (la tola - nariño),2022,12,5965,3426,3878,viernes,2022-12-16T18:30,8.22
+1761,18,caqueta,18150,cartagena del chaira,18150001,santa fe del caguan (cartagena del chaira - caqueta),2022,7,3177,62119,3756,jueves,2022-07-21T18:45,3.48
+403,18,caqueta,18753,san vicente del caguan,18753033,villa lobos (san vicente del caguan - caqueta),2024,3,12240,4716,7709,jueves,2024-03-21T19:30,6.38
+4320,27,choco,27800,unguia,27800001,balboa (unguia - choco),2024,10,28284,14449,9993,domingo,2024-10-13T18:45,12.43
+4563,52,nariño,52250,el charco,52250022,el cuil pueblo nuevo (el charco - nariño),2024,9,2728,1237,3024,martes,2024-09-24T20:00,3.66
+4442,19,cauca,19418,lopez de micay,19418009,noanamito (lopez de micay - cauca),2024,12,6763,3257,40,domingo,2024-12-01T19:15,7.55
+1925,27,choco,27800,unguia,27800001,balboa (unguia - choco),2022,5,21873,8265,8937,domingo,2022-05-01T20:15,10.25
+651,52,nariño,52835,san andres de tumaco,52835055,bocas de curay (san andres de tumaco - nariño),2023,11,6741,2487,576,sabado,2023-11-18T19:00,5.3
+3868,50,meta,50325,mapiripan,50325000,mapiripan (mapiripan - meta),2020,5,134889,55455,2618,lunes,2020-05-11T19:00,23.5
+2154,19,cauca,19809,timbiqui,19809003,coteje (timbiqui - cauca),2022,2,5856,4140,336,lunes,2022-02-14T19:00,7.34
+1790,27,choco,27800,unguia,27800001,titumate (unguia - choco),2022,7,17576,62119,9821,sabado,2022-07-30T21:00,8.25
+1190,52,nariño,52390,la tola,52390009,mulatos (la tola - nariño),2023,3,5455,3019,3805,jueves,2023-03-23T18:45,7.35
+1533,18,caqueta,18753,san vicente del caguan,18753009,puerto betania (san vicente del caguan - caqueta),2022,10,5895,2457,4828,sabado,2022-10-22T19:15,5.51
+4258,52,nariño,52427,magüi,52427013,la loma (magüi - nariño),2024,8,89,26,533,miercoles,2024-08-14T18:30,0.44
+3033,97,vaupes,97161,caruru,97161000,caruru (caruru - vaupes),2021,4,20059,5339,7999,jueves,2021-04-22T18:30,12.37
+3207,97,vaupes,97161,caruru,97161000,caruru (caruru - vaupes),2021,2,17881,4162,7674,lunes,2021-02-15T19:30,12.2
+193,27,choco,27491,novita,27491004,juntas de tamana (novita - choco),2024,5,1863,620,1199,viernes,2024-05-31T18:45,6.51
+3941,52,nariño,52250,el charco,52250003,bolivar - san pedro (el charco - nariño),2020,4,4411,3293,2221,miercoles,2020-04-08T19:45,7.45
+4301,27,choco,27077,bajo baudo,27077029,firme de usarga (bajo baudo - choco),2024,10,517,229,593,lunes,2024-10-28T11:45,3.71
+4593,52,nariño,52835,san andres de tumaco,52835217,san juan de la costa,2025,1,27354,10597,112,miercoles,2025-01-08T19:00,11.04
+315,97,vaupes,97001,mitu,97001000,mitu (mitu - vaupes),2024,1,164425,62119,35660,lunes,2024-01-29T12:00,24.0
+2378,99,vichada,99773,cumaribo,99773000,cumaribo (cumaribo - vichada),2021,12,164425,62119,35660,lunes,2021-12-13T18:00,23.58
+1882,52,nariño,52390,la tola,52390005,mulatos (la tola - nariño),2022,6,3981,2012,355,viernes,2022-06-03T18:30,5.98
+3883,76,valle del cauca,76109,buenaventura,76109032,san francisco naya (buenaventura - valle del cauca),2020,5,5744,3439,3206,sabado,2020-05-09T19:00,7.18
+3415,52,nariño,52250,el charco,52250022,el cuil pueblo nuevo (el charco - nariño),2020,11,4511,2964,3332,lunes,2020-11-30T20:45,5.53
+4643,99,vichada,99773,cumaribo,99773000,cumaribo,2025,2,164425,62119,35660,lunes,2025-02-17T14:45,23.88
+4312,27,choco,27372,jurado,27372000,jurado (jurado - choco),2024,10,164425,61194,3448,jueves,2024-10-03T19:00,23.94
+114,27,choco,27099,bojaya,27099000,bellavista (bojaya (bellavista) - choco),2024,7,63749,18620,26598,domingo,2024-07-07T15:00,10.39
+2685,27,choco,27425,medio atrato (bete),27425000,bete (medio atrato (bete) - choco),2021,8,14772,8182,56,martes,2021-08-03T19:45,12.2
+1271,52,nariño,52520,francisco pizarro,52520013,san pedro del vino (francisco pizarro - nariño),2023,2,1004,617,248,domingo,2023-02-26T12:15,1.59
+91,18,caqueta,18150,cartagena del chaira,18150001,remolino del caguan (cartagena del chaira - caqueta),2024,7,11716,5089,10475,martes,2024-07-09T19:45,4.3
+1967,76,valle del cauca,76109,buenaventura,76109028,san francisco de naya (buenaventura - valle del cauca),2022,5,6098,2552,3363,viernes,2022-05-27T11:45,8.0
+3183,52,nariño,52250,el charco,52250023,bazan (el charco - nariño),2021,2,18958,10468,1008,miercoles,2021-02-24T19:00,8.19
+3135,13,bolivar,13001,cartagena de indias,13001017,santa cruz del islote (cartagena de indias - bolivar),2021,2,15750,5352,449,jueves,2021-02-18T21:45,17.29
+4397,27,choco,27495,nuqui,27495000,nuqui (nuqui - choco),2024,11,164425,62119,35660,viernes,2024-11-15T19:00,22.99
+3601,99,vichada,99624,santa rosalia,99624000,santa rosalia (santa rosalia - vichada),2020,9,110554,54151,35660,viernes,2020-09-11T19:00,14.51
+4224,27,choco,27025,alto baudo,27025000,ciudad baudo - pie de pato (alto baudo - choco),2024,8,39730,14556,14133,domingo,2024-08-25T19:15,15.31
+2708,52,nariño,52390,la tola,52390009,mulatos (la tola - nariño),2021,8,4746,3922,393,miercoles,2021-08-11T19:00,6.14
+2087,27,choco,27077,bajo baudo (pizarro),27077000,pizarro (bajo baudo (pizarro) - choco),2022,3,164425,62119,35660,jueves,2022-03-17T20:15,23.53
+3954,52,nariño,52696,santa barbara (iscuande),52696017,santa rita (santa barbara (iscuande) - nariño),2020,4,8035,4377,382,jueves,2020-04-30T19:15,8.41
+1422,27,choco,27495,nuqui,27495011,puerto jagua (nuqui - choco),2022,12,1072,645,648,sabado,2022-12-24T20:00,6.48
+1075,19,cauca,19418,lopez de micay,19418038,isla de gallo (lopez de micay - cauca),2023,4,4223,2097,3114,sabado,2023-04-29T19:30,6.12
+3795,44,la guajira,44847,uribia,44847012,nazareth (uribia - la guajira),2020,6,26493,12006,21288,martes,2020-06-16T19:30,10.04
+1445,97,vaupes,97666,taraira,97666000,taraira (taraira - vaupes),2022,12,30847,8849,1261,lunes,2022-12-05T18:15,10.06
+1523,5,antioquia,5873,vigia del fuerte,5873002,vegaez (vigia del fuerte - antioquia),2022,10,4933,700,321,miercoles,2022-10-12T20:45,6.46
+978,52,nariño,52835,san andres de tumaco,52835055,bocas de curay (tumaco - nariño),2023,6,8423,3007,552,viernes,2023-06-02T19:00,7.05
+1947,95,guaviare,95200,miraflores,95200000,miraflores (miraflores - guaviare),2022,5,90318,31378,20636,jueves,2022-05-12T19:15,19.33
+2231,19,cauca,19418,lopez de micay,19418011,dos quebradas rio naya (lopez de micay - cauca),2022,1,5401,2361,3053,martes,2022-01-25T16:15,7.34
+912,52,nariño,52696,santa barbara,52696014,la ensenada (santa barbara - nariño),2023,7,3485,6323,2186,jueves,2023-07-20T19:30,6.11
+4604,76,valle del cauca,76109,buenaventura,76109907,san pablo( cajambre),2025,1,2,1,27,viernes,2025-01-03T19:00,0.0
+2649,13,bolivar,13001,cartagena de indias,13001007,isla fuerte (cartagena de indias - bolivar),2021,8,14790,7712,13702,domingo,2021-08-01T15:00,4.24
+1273,52,nariño,52390,la tola,52390013,amarales (la tola - nariño),2023,2,5973,2187,4266,jueves,2023-02-23T19:45,7.21
+1741,76,valle del cauca,76109,buenaventura,76109032,san francisco naya (buenaventura - valle del cauca),2022,8,6406,2559,337,sabado,2022-08-13T12:00,7.98
+4448,27,choco,27006,acandi,27006007,san francisco (acandi - choco),2024,12,17978,4926,13453,martes,2024-12-31T19:15,6.11
+2990,27,choco,27077,bajo baudo (pizarro),27077905,buenavista (bajo baudo (pizarro) - choco),2021,4,5813,1022,2282,miercoles,2021-04-21T19:45,10.6
+760,95,guaviare,95200,miraflores,95200000,miraflores (miraflores - guaviare),2023,9,90236,31623,22132,miercoles,2023-09-06T18:30,18.23
+2634,76,valle del cauca,76109,buenaventura,76109032,san francisco naya (buenaventura - valle del cauca),2021,9,5735,3014,3389,sabado,2021-09-18T00:00,7.39
+3857,27,choco,27495,nuqui,27495912,comunidad indigena de pangui - el yucal (nuqui - choco),2020,5,6546,1603,1133,sabado,2020-05-30T18:15,21.34
+3733,52,nariño,52490,olaya herrera,52490913,boca de prieta (olaya herrera - nariño),2020,7,5050,1092,2292,jueves,2020-07-30T19:15,8.18
+2516,27,choco,27800,unguia,27800001,balboa (unguia - choco),2021,10,22124,8431,8979,jueves,2021-10-07T21:00,9.59
+1823,99,vichada,99624,santa rosalia,99624000,santa rosalia (santa rosalia - vichada),2022,7,138632,62119,32976,viernes,2022-07-22T20:45,18.0
+3815,97,vaupes,97161,caruru,97161000,caruru (caruru - vaupes),2020,6,19281,5925,7392,martes,2020-06-16T19:15,24.0
+451,52,nariño,52835,san andres de tumaco,52835055,bocas de curay (san andres de tumaco - nariño),2024,3,0,0,0,viernes,2024-03-01T00:00,0.0
+2916,27,choco,27372,jurado,27372000,jurado (jurado - choco),2021,5,161498,62119,30368,miercoles,2021-05-19T19:45,24.0
+4378,27,choco,27077,bajo baudo,27077905,buenavista (bajo baudo - choco),2024,11,4801,1848,2611,viernes,2024-11-15T18:45,11.12
+2527,52,nariño,52250,el charco,52250003,bolivar - san pedro (el charco - nariño),2021,10,3887,2545,2195,lunes,2021-10-18T19:30,6.34
+790,5,antioquia,5873,vigia del fuerte,5873002,vegaez (vigia del fuerte - antioquia),2023,8,5313,735,5462,sabado,2023-08-12T19:00,5.59
+603,19,cauca,19418,lopez de micay,19418038,isla de gallo (lopez de micay - cauca),2023,11,3076,1482,2819,lunes,2023-11-13T19:30,4.54
+1000,18,caqueta,18150,cartagena del chaira,18150001,remolino del caguan (cartagena del chaira - caqueta),2023,5,16930,6578,932,domingo,2023-05-28T19:30,7.46
+1841,19,cauca,19418,lopez (micay),19418038,isla de gallo (lopez (micay) - cauca),2022,6,3459,1632,219,viernes,2022-06-10T18:15,6.78
+1201,76,valle del cauca,76109,buenaventura,76109069,papayal 1 (buenaventura - valle del cauca),2023,3,11427,350,6182,lunes,2023-03-13T22:15,10.07
+4064,19,cauca,19809,timbiqui,19809023,puerto saija (timbiqui - cauca),2020,2,25416,8460,17406,viernes,2020-02-14T19:45,5.58
+1361,52,nariño,52250,el charco,52250007,san jose del tapaje (el charco - nariño),2023,1,9462,3292,56,lunes,2023-01-09T17:00,6.54
+1590,99,vichada,99773,cumaribo,99773000,cumaribo (cumaribo - vichada),2022,10,164425,62119,35660,miercoles,2022-10-26T14:45,23.48
+2742,19,cauca,19318,guapi,19318008,limones (guapi - cauca),2021,7,8397,3349,3581,viernes,2021-07-02T19:00,9.33
+255,19,cauca,19809,timbiqui,19809003,coteje (timbiqui - cauca),2024,1,5626,4207,2776,lunes,2024-01-22T20:45,7.38
+1715,27,choco,27800,unguia,27800000,unguia (unguia - choco),2022,8,164425,62119,35660,lunes,2022-08-08T20:45,22.23
+512,13,bolivar,13001,cartagena de indias,13001037,isla mucura (cartagena de indias - bolivar),2023,12,6884,2587,2621,sabado,2023-12-02T00:45,10.32
+3897,88,"archipielago de san andres, providencia y santa catalina",88564,providencia,88564000,providencia (providencia - archipielago de san andres y providencia),2020,4,164425,62119,15215,martes,2020-04-21T20:45,24.0
+3195,52,nariño,52835,san andres de tumaco,52835012,chajal (tumaco - nariño),2021,2,19123,6568,1401,lunes,2021-02-22T19:30,6.4
+74,97,vaupes,97001,mitu,97001000,mitu (mitu - vaupes),2024,6,164425,62119,35660,martes,2024-06-18T12:00,24.0
+4149,19,cauca,19809,timbiqui,19809009,santa rosa de saija (timbiqui - cauca),2020,1,2410,671,2431,martes,2020-01-28T19:30,4.01
+2716,52,nariño,52696,santa barbara (iscuande),52696022,secadero (santa barbara (iscuande) - nariño),2021,8,2899,2219,1454,sabado,2021-08-21T00:15,8.57
+44,94,guainia,94343,barranco minas,94343000,barranco minas (barranco minas - guainia),2024,6,87380,28373,23428,martes,2024-06-25T17:30,16.11
+3886,97,vaupes,97666,taraira,97666000,taraira (taraira - vaupes),2020,5,25837,8139,10877,viernes,2020-05-01T13:00,9.4
+2726,99,vichada,99001,puerto carreño,99001000,puerto carreño (puerto carreño - vichada),2021,8,164425,62119,35660,viernes,2021-08-27T13:15,24.0
+4476,95,guaviare,95200,miraflores,95200000,miraflores (miraflores - guaviare),2024,12,125950,20195,2495,martes,2024-12-03T18:00,24.0
+4269,76,valle del cauca,76109,buenaventura,76109081,punta bonita (buenaventura - valle del cauca),2024,8,4975,4623,2216,sabado,2024-08-17T19:15,9.3
+600,18,caqueta,18753,san vicente del caguan,18753009,puerto betania (san vicente del caguan - caqueta),2023,11,0,0,0,miercoles,2023-11-01T00:00,0.0
+4180,52,nariño,52390,la tola,52390003,la vigia de la mar (la tola - nariño),2020,1,4676,1440,3196,lunes,2020-01-06T18:45,6.08
+4391,27,choco,27372,jurado,27372000,jurado (jurado - choco),2024,11,164425,56012,31968,lunes,2024-11-25T18:45,23.98
+3790,27,choco,27800,unguia,27800005,titumate (unguia - choco),2020,6,11312,3830,6934,lunes,2020-06-08T19:30,4.34
+2521,95,guaviare,95200,miraflores,95200000,miraflores (miraflores - guaviare),2021,10,82653,30237,19272,jueves,2021-10-21T18:30,19.1
+427,27,choco,27099,bojaya,27099005,napipi (bojaya - choco),2024,3,12730,4262,64,viernes,2024-03-08T19:00,7.56
+3718,27,choco,27800,unguia,27800001,balboa (unguia - choco),2020,7,15297,6107,7316,jueves,2020-07-09T20:00,8.06
+606,19,cauca,19418,lopez de micay,19418012,san antonio de chuare (lopez de micay - cauca),2023,11,4393,1125,4848,miercoles,2023-11-22T19:00,4.1
+495,52,nariño,52390,la tola,52390003,la vigia de la mar (la tola - nariño),2024,4,3272,1156,2256,sabado,2024-04-27T11:30,7.1
+352,27,choco,27250,el litoral del san juan,27250023,papayo (el litoral del san juan - choco),2024,2,3058,959,1747,martes,2024-02-27T19:30,7.08
+2749,19,cauca,19418,lopez de micay,19418012,san antonio de chuare (lopez de micay - cauca),2021,7,7440,2566,5555,domingo,2021-07-25T19:30,5.26
+4243,27,choco,27077,bajo baudo,27077019,virudo (bajo baudo - choco),2024,8,6804,4079,3105,viernes,2024-08-30T22:00,9.15
+1011,19,cauca,19809,timbiqui,19809023,puerto saija (timbiqui - cauca),2023,5,37451,12559,1767,sabado,2023-05-06T19:00,8.13
+3459,19,cauca,19418,lopez de micay,19418038,isla de gallo (lopez de micay - cauca),2020,10,2940,964,2512,sabado,2020-10-03T19:00,4.37
+4278,88,archipielago de san andres y providencia,88564,providencia,88564000,providencia (providencia - archipielago de san andres y providencia ),2024,10,164425,62119,35660,jueves,2024-10-24T14:30,23.98
+1785,27,choco,27099,bojaya (bellavista),27099000,la loma de bojaya (bojaya (bellavista) - choco),2022,7,11046,56536,64,domingo,2022-07-24T19:15,8.32
+3679,99,vichada,99001,puerto carreño,99001002,casuarito (puerto carreño - vichada),2020,8,21540,8139,10754,jueves,2020-08-20T18:15,8.31
+3549,27,choco,27006,acandi,27006003,capurgana (acandi - choco),2020,9,164425,62119,35660,lunes,2020-09-14T21:30,20.15
+2122,86,putumayo,86573,puerto leguizamo,86573000,puerto leguizamo (puerto leguizamo - putumayo),2022,3,164425,62119,35660,jueves,2022-03-10T14:15,23.5
+811,19,cauca,19809,timbiqui,19809009,santa rosa de saija (timbiqui - cauca),2023,8,3266,1302,2006,lunes,2023-08-28T19:30,6.09
+619,27,choco,27075,bahia solano,27075000,ciudad mutis (bahia solano - choco),2023,11,164425,62119,35660,sabado,2023-11-11T17:45,22.15
+1316,19,cauca,19418,lopez de micay,19418038,isla de gallo (lopez de micay - cauca),2023,1,3283,1589,2835,sabado,2023-01-14T19:45,4.51
+4519,19,cauca,19809,timbiqui,19809003,coteje (timbiqui - cauca),2024,9,6188,4660,3032,lunes,2024-09-23T22:00,8.88
+1362,52,nariño,52520,francisco pizarro,52520013,san pedro del vino (francisco pizarro - nariño),2023,1,1,1,429,martes,2023-01-31T13:00,0.0
+4387,27,choco,27099,bojaya,27099005,napipi (bojaya - choco),2024,11,10480,3648,576,domingo,2024-11-03T19:45,7.48
+2334,27,choco,27099,bojaya (bellavista),27099000,bellavista (bojaya (bellavista) - choco),2021,12,95310,27440,22808,miercoles,2021-12-15T19:00,17.44
+1534,19,cauca,19318,guapi,19318008,limones (guapi - cauca),2022,10,7362,3457,3985,sabado,2022-10-29T19:30,7.52
+938,19,cauca,19418,lopez de micay,19418011,dos quebradas rio naya (lopez de micay - cauca),2023,6,3618,1334,3123,lunes,2023-06-26T19:15,5.32
+1165,27,choco,27099,bojaya (bellavista),27099000,bellavista (bojaya (bellavista) - choco),2023,3,99574,31581,2495,miercoles,2023-03-01T12:45,16.43
+3892,91,amazonas,91540,puerto nariño,91540000,puerto nariño (puerto nariño - amazonas),2020,4,93654,32823,19906,viernes,2020-04-03T18:45,23.57
+4484,52,nariño,52390,la tola,52390003,la vigia de la mar (la tola - nariño),2024,12,5949,2682,302,lunes,2024-12-16T11:45,9.61
+2987,27,choco,27075,bahia solano (mutis),27075000,ciudad mutis (bahia solano - choco),2021,4,164425,62119,35660,lunes,2021-04-19T19:30,23.5
+870,88,archipielago de san andres y providencia,88001,san andres,88001000,san andres (san andres - archipielago de san andres y providencia ),2023,7,164425,62119,35660,viernes,2023-07-21T15:30,24.0
+2448,52,nariño,52390,la tola,52390016,san pablo del mar (la tola - nariño),2021,11,4697,1349,2906,domingo,2021-11-07T19:00,6.51
+1433,52,nariño,52250,el charco,52250007,san jose del tapaje (el charco - nariño),2022,12,12292,4518,56,jueves,2022-12-01T18:30,9.02
+1095,27,choco,27425,medio atrato (bete),27425000,bete (medio atrato (bete) - choco),2023,4,9745,4156,56,miercoles,2023-04-26T11:45,9.28
+4035,99,vichada,99773,cumaribo,99773000,cumaribo (cumaribo - vichada),2020,3,164425,62119,35660,viernes,2020-03-06T18:45,20.36
+357,27,choco,27425,medio atrato,27425008,san roque (medio atrato - choco),2024,2,0,0,0,jueves,2024-02-01T00:00,0.0
+3332,52,nariño,52250,el charco,52250023,bazan (el charco - nariño),2020,12,21149,11563,1056,jueves,2020-12-31T19:45,8.23
+3152,19,cauca,19809,timbiqui,19809023,puerto saija (timbiqui - cauca),2021,2,28890,9914,18638,viernes,2021-02-26T19:00,6.33
+2074,19,cauca,19809,timbiqui,19809003,coteje (timbiqui - cauca),2022,3,6306,4681,3196,sabado,2022-03-05T19:30,7.37
+4246,44,la guajira,44847,uribia,44847003,cabo de la vela (uribia - la guajira),2024,8,8751,342,14163,jueves,2024-08-04T19:15,3.02
+4229,27,choco,27075,bahia solano,27075002,el valle (bahia solano - choco),2024,8,164425,62119,35660,miercoles,2024-08-14T19:45,23.51
+832,27,choco,27800,unguia,27800000,unguia (unguia - choco),2023,8,164425,62119,35660,miercoles,2023-08-30T21:00,22.22
+1615,27,choco,27001,quibdo,27001029,tagachi (quibdo - choco),2022,9,6504,2235,5366,lunes,2022-09-05T20:00,5.58
+1407,19,cauca,19809,timbiqui,19809003,coteje (timbiqui - cauca),2022,12,6358,4518,3156,domingo,2022-12-11T18:45,7.45
+252,19,cauca,19418,lopez de micay,19418015,san isidro (lopez de micay - cauca),2024,1,627,364,691,miercoles,2024-01-24T19:00,3.54
+3430,52,nariño,52835,san andres de tumaco,52835217,san juan de la costa (san andres de tumaco - nariño),2020,11,18960,6933,144,lunes,2020-11-09T18:30,6.12
+4459,27,choco,27099,bojaya,27099005,napipi (bojaya - choco),2024,12,10485,3675,64,martes,2024-12-24T19:45,7.04
+3742,52,nariño,52696,santa barbara (iscuande),52696014,la ensenada (santa barbara (iscuande) - nariño),2020,7,3364,5398,2192,jueves,2020-07-16T20:45,6.0
+681,27,choco,27077,bajo baudo,27077019,virudo (bajo baudo - choco),2023,10,6933,3136,3074,jueves,2023-10-26T03:45,9.18
+3469,27,choco,27006,acandi,27006000,acandi (acandi - choco),2020,10,164425,62119,35660,martes,2020-10-27T20:00,23.5
+3615,85,casanare,85430,trinidad,85430001,bocas del pauto (trinidad - casanare),2020,8,7889,4496,9523,jueves,2020-08-13T23:30,3.46
+4138,19,cauca,19418,lopez de micay,19418038,isla de gallo (lopez de micay - cauca),2020,1,2545,788,2694,viernes,2020-01-10T18:45,3.54
+997,13,bolivar,13001,cartagena de indias,13001007,isla fuerte (cartagena de indias - bolivar),2023,5,55498,33985,2175,sabado,2023-05-20T22:15,11.35
+3916,27,choco,27075,bahia solano (mutis),27075000,ciudad mutis (bahia solano - choco),2020,4,164425,62119,35660,sabado,2020-04-04T19:15,23.59
+4247,44,la guajira,44847,uribia,44847012,nazareth (uribia - la guajira),2024,8,40008,8714,26736,sabado,2024-08-31T18:00,5.42
+333,19,cauca,19418,lopez de micay,19418011,rio maya - dos quebradas (lopez de micay - cauca),2024,2,3041,1046,3277,viernes,2024-02-16T18:30,4.13
+2078,19,cauca,19809,timbiqui,19809009,santa rosa de saija (timbiqui - cauca),2022,3,4009,2215,2537,miercoles,2022-03-23T19:15,6.24
+752,27,choco,27495,nuqui,27495011,puerto jagua (nuqui - choco),2023,9,301,142,557,sabado,2023-09-09T20:15,7.11
+721,88,"archipielago de san andres, providencia y santa catalina",88001,san andres,88001000,san andres (san andres - archipielago de san andres y providencia),2023,9,164425,62119,35660,viernes,2023-09-01T15:30,24.0
+2678,27,choco,27077,bajo baudo (pizarro),27077000,pizarro (bajo baudo (pizarro) - choco),2021,8,164425,62119,35660,miercoles,2021-08-04T19:45,23.44
+4377,27,choco,27077,bajo baudo,27077002,belen de docampado (bajo baudo - choco),2024,11,8356,2902,3606,sabado,2024-11-02T18:30,10.52
+1611,19,cauca,19809,timbiqui,19809009,santa rosa de saija (timbiqui - cauca),2022,9,5128,2588,2434,domingo,2022-09-25T19:30,8.88
+3579,52,nariño,52490,olaya herrera,52490913,boca de prieta (olaya herrera - nariño),2020,9,3110,766,2215,jueves,2020-09-03T19:00,7.02
+1879,52,nariño,52473,mosquera,52473010,el bajito de echandia (mosquera - nariño),2022,6,2602,600,123,viernes,2022-06-17T18:15,8.38
+2703,52,nariño,52250,el charco,52250007,san jose del tapaje (el charco - nariño),2021,8,16506,4140,88,sabado,2021-08-07T20:00,8.11
+1540,19,cauca,19809,timbiqui,19809010,comunidad de chete (timbiqui - cauca),2022,10,3407,1172,2742,miercoles,2022-10-05T19:00,5.01
+518,18,caqueta,18753,san vicente del caguan,18753033,villa lobos (san vicente del caguan - caqueta),2023,12,23077,9987,7302,viernes,2023-12-01T18:15,14.51
+3115,52,nariño,52696,santa barbara (iscuande),52696014,la ensenada (santa barbara (iscuande) - nariño),2021,3,2743,2629,1878,miercoles,2021-03-31T20:15,6.0
+734,19,cauca,19418,lopez de micay,19418015,san isidro (lopez de micay - cauca),2023,9,464,261,736,jueves,2023-09-30T18:30,5.13
+2145,18,caqueta,18753,san vicente del caguan,18753009,puerto betania (san vicente del caguan - caqueta),2022,2,5180,2007,4804,lunes,2022-02-14T19:00,5.13
+1323,27,choco,27006,acandi,27006000,acandi (acandi - choco),2023,1,164425,62119,35660,sabado,2023-01-28T20:30,23.24
+2185,94,guainia,94001,inirida,94001000,inirida (inirida - guainia),2022,2,164425,62119,35660,martes,2022-02-22T18:00,24.0
+3454,85,casanare,85430,trinidad,85430001,bocas del pauto (trinidad - casanare),2020,10,13318,7513,8992,jueves,2020-10-01T18:30,6.21
+590,91,amazonas,91798,tarapaca (anm),91798000,tarapaca (tarapaca (anm) - amazonas),2023,11,27058,12193,10343,jueves,2023-11-02T14:45,10.1
+2654,18,caqueta,18753,san vicente del caguan,18753015,guayabal (san vicente del caguan - caqueta),2021,8,6469,3127,3696,sabado,2021-08-14T18:30,7.09
+446,50,meta,50325,mapiripan,50325000,mapiripan (mapiripan - meta),2024,3,164425,62119,35660,miercoles,2024-03-20T18:45,23.58
+1946,94,guainia,94001,inirida,94001000,inirida (inirida - guainia),2022,5,164425,62119,35660,martes,2022-05-03T14:30,24.0
+4581,76,valle del cauca,76109,buenaventura,76109957,humanes mar (buenaventura - valle del cauca),2024,9,6127,1579,2944,domingo,2024-09-29T10:45,10.14
+2451,52,nariño,52835,san andres de tumaco,52835016,pital de la costa (tumaco - nariño),2021,11,17575,9485,88,viernes,2021-11-19T13:00,8.56
+1150,19,cauca,19809,timbiqui,19809014,chacon (timbiqui - cauca),2023,3,4172,1189,2634,jueves,2023-03-23T19:15,6.23
+453,52,nariño,52696,santa barbara,52696014,la ensenada (santa barbara - nariño),2024,3,3542,4018,2141,miercoles,2024-03-13T18:45,6.31
+4086,27,choco,27800,unguia,27800005,titumate (unguia - choco),2020,2,8792,3817,6706,jueves,2020-02-20T20:00,5.2
+1243,27,choco,27077,bajo baudo (pizarro),27077011,piliza (bajo baudo (pizarro) - choco),2023,2,3654,2233,32,miercoles,2023-02-01T19:15,5.31
+1363,52,nariño,52390,la tola,52390005,aguacatal (la tola - nariño),2023,1,2163,511,992,jueves,2023-01-19T18:30,8.25
+2310,19,cauca,19318,guapi,19318008,limones (guapi - cauca),2021,12,8928,3931,3891,jueves,2021-12-30T18:45,10.0
+3847,27,choco,27075,bahia solano (mutis),27075001,cupica (bahia solano - choco),2020,5,61108,24351,13236,miercoles,2020-05-13T19:00,23.06
+15,19,cauca,19809,timbiqui,19809026,los brazos (timbiqui - cauca),2024,6,2593,1121,3655,miercoles,2024-06-12T20:00,2.56
+2963,18,caqueta,18150,cartagena del chaira,18150001,remolino del caguan (cartagena del chaira - caqueta),2021,4,15248,7141,8297,sabado,2021-04-17T19:15,8.13
+4013,50,meta,50325,mapiripan,50325000,mapiripan (mapiripan - meta),2020,3,140126,57139,29128,miercoles,2020-03-04T19:15,23.4
+2317,19,cauca,19418,lopez de micay,19418019,zaragoza (lopez de micay - cauca),2021,12,7200,2989,511,jueves,2021-12-02T19:30,5.42
+946,27,choco,27025,alto baudo (pie de pato),27025000,ciudad baudo - pie de pato (alto baudo - choco),2023,6,48391,16090,11986,jueves,2023-06-01T12:00,23.58
+3383,19,cauca,19809,timbiqui,19809003,coteje (timbiqui - cauca),2020,11,6842,3913,338,sabado,2020-11-21T19:45,8.0
+566,47,magdalena,47189,cienaga,47189018,palmor (cienaga - magdalena),2023,12,113035,45923,20704,sabado,2023-12-16T18:30,23.44
+1742,97,vaupes,97161,caruru,97161000,caruru (caruru - vaupes),2022,8,27642,9275,9522,jueves,2022-08-25T19:30,12.35
+2819,99,vichada,99624,santa rosalia,99624000,santa rosalia (santa rosalia - vichada),2021,7,126001,62119,31445,martes,2021-07-06T19:30,18.16
+361,27,choco,27615,riosucio,27615011,san jose tamboral (riosucio - choco),2024,2,320,109,457,sabado,2024-02-17T19:30,3.07
+1552,27,choco,27077,bajo baudo (pizarro),27077000,pizarro (bajo baudo (pizarro) - choco),2022,10,164425,62119,35660,lunes,2022-10-03T19:30,21.55
+1666,97,vaupes,97161,caruru,97161000,caruru (caruru - vaupes),2022,9,27026,8615,9513,jueves,2022-09-29T15:00,12.15
+4343,76,valle del cauca,76109,buenaventura,76109069,papayal 1 (buenaventura - valle del cauca),2024,10,6167,1463,4123,sabado,2024-10-26T12:30,9.63
+882,19,cauca,19809,timbiqui,19809009,santa rosa de saija (timbiqui - cauca),2023,7,3236,1284,2011,domingo,2023-07-23T19:30,5.58
+1539,19,cauca,19418,lopez de micay,19418012,san antonio de chuare (lopez de micay - cauca),2022,10,4673,1395,4429,domingo,2022-10-30T19:15,4.08
+2239,19,cauca,19809,timbiqui,19809003,coteje (timbiqui - cauca),2022,1,5863,4178,33,lunes,2022-01-24T18:45,7.01
+4178,52,nariño,52250,el charco,52250007,san jose del tapaje (el charco - nariño),2020,1,13262,3324,96,jueves,2020-01-30T20:00,5.4
+3793,94,guainia,94001,inirida,94001000,inirida (inirida - guainia),2020,6,164425,62119,35660,miercoles,2020-06-10T14:45,6.3
+1033,94,guainia,94343,barrancominas,94343000,barrancominas (barrancominas - guainia),2023,5,67713,17170,18108,lunes,2023-05-08T18:45,16.03
+2779,27,choco,27495,nuqui,27495011,puerto jagua (nuqui - choco),2021,7,426,75,348,jueves,2021-07-01T21:00,5.43
+1394,13,bolivar,13001,cartagena de indias,13001007,isla fuerte (cartagena de indias - bolivar),2022,12,25914,14554,22548,viernes,2022-12-30T23:00,4.47
+569,52,nariño,52250,el charco,52250023,bazan (el charco - nariño),2023,12,4888,2238,912,domingo,2023-12-03T20:15,2.15
+2288,97,vaupes,97666,taraira,97666000,taraira (taraira - vaupes),2022,1,31365,9992,11185,jueves,2022-01-06T18:45,11.23
+1581,52,nariño,52696,santa barbara (iscuande),52696014,la ensenada (santa barbara (iscuande) - nariño),2022,10,2971,5272,2256,miercoles,2022-10-26T18:45,5.2
+4305,27,choco,27077,bajo baudo,27077000,pizarro (bajo baudo - choco),2024,10,121713,47969,4657,sabado,2024-10-05T18:45,11.99
+2876,5,antioquia,5873,vigia del fuerte,5873002,vegaez (vigia del fuerte - antioquia),2021,5,3997,294,3517,miercoles,2021-05-19T19:00,5.18
+4553,27,choco,27800,unguia,27800001,balboa (unguia - choco),2024,9,17656,7878,8987,viernes,2024-09-27T20:30,12.68
+2980,19,cauca,19809,timbiqui,19809023,puerto saija (timbiqui - cauca),2021,4,27027,9253,18005,jueves,2021-04-08T18:30,6.08
+2349,27,choco,27800,unguia,27800005,titumate (unguia - choco),2021,12,18197,4683,1005,domingo,2021-12-19T19:00,8.15
+3818,99,vichada,99773,cumaribo,99773000,cumaribo (cumaribo - vichada),2020,6,164425,62119,5192,viernes,2020-06-05T15:45,24.0
+491,95,guaviare,95200,miraflores,95200000,miraflores (miraflores - guaviare),2024,4,111542,35676,23628,martes,2024-04-16T18:15,24.0
+2120,52,nariño,52696,santa barbara (iscuande),52696022,secadero (santa barbara (iscuande) - nariño),2022,3,2715,1502,1286,martes,2022-03-15T18:45,9.0
+1030,27,choco,27800,unguia,27800001,balboa (unguia - choco),2023,5,24459,9396,8705,sabado,2023-05-13T20:00,12.01
+863,97,vaupes,97666,taraira,97666000,taraira (taraira - vaupes),2023,8,36864,11207,13438,jueves,2023-08-10T12:45,11.19
+1345,27,choco,27450,medio san juan,27450016,macedonia (medio san juan - choco),2023,1,0,0,0,domingo,2023-01-01T00:00,0.0
+2526,52,nariño,52250,el charco,52250023,bazan (el charco - nariño),2021,10,18786,11821,1008,sabado,2021-10-30T18:45,7.27
+2563,13,bolivar,13001,cartagena de indias,13001037,isla mucura (cartagena de indias - bolivar),2021,9,6464,2355,1923,sabado,2021-09-25T22:15,14.8

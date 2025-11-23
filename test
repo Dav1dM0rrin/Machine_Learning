@@ -1,0 +1,313 @@
+"""
+SISTEMA DE PREDICCIÓN POR CONSOLA
+Predicción de pasajeros en sistemas de transporte limpio
+Minería de Datos 2025-2
+"""
+
+import numpy as np
+import joblib
+import sys
+from datetime import datetime
+
+# ============================================================================
+# CARGAR MODELOS Y TRANSFORMADORES
+# ============================================================================
+
+def cargar_modelos():
+    """Carga todos los modelos y transformadores necesarios"""
+    try:
+        print("\n" + "=" * 70)
+        print("🚌 SISTEMA DE PREDICCIÓN DE PASAJEROS - TRANSPORTE LIMPIO")
+        print("=" * 70)
+        print("\n📂 Cargando modelos...")
+        
+        rf_model = joblib.load('random_forest_model.pkl')
+        print("  ✓ Random Forest cargado")
+        
+        gb_model = joblib.load('gradient_boosting_model.pkl')
+        print("  ✓ Gradient Boosting cargado")
+        
+        scaler = joblib.load('scaler.pkl')
+        print("  ✓ Scaler cargado")
+        
+        le_ciudad = joblib.load('le_ciudad.pkl')
+        print("  ✓ Encoder de ciudades cargado")
+        
+        le_sistema = joblib.load('le_sistema.pkl')
+        print("  ✓ Encoder de sistemas cargado")
+        
+        print("\n✅ Todos los modelos cargados exitosamente!")
+        
+        return rf_model, gb_model, scaler, le_ciudad, le_sistema
+        
+    except FileNotFoundError as e:
+        print(f"\n❌ Error: No se encontraron los archivos de modelos.")
+        print(f"   Detalle: {e}")
+        print("\n💡 Solución: Primero ejecuta 'python train_models.py' para entrenar los modelos.")
+        sys.exit(1)
+    except Exception as e:
+        print(f"\n❌ Error inesperado al cargar modelos: {e}")
+        sys.exit(1)
+
+# ============================================================================
+# FUNCIÓN PRINCIPAL DE PREDICCIÓN
+# ============================================================================
+
+def hacer_prediccion_consola(rf_model, gb_model, scaler, le_ciudad, le_sistema):
+    """Función para realizar predicciones interactivas por consola"""
+    
+    print("\n" + "=" * 70)
+    print("🔮 SISTEMA DE PREDICCIÓN INTERACTIVO")
+    print("=" * 70)
+    print("\nIngresa los datos solicitados para predecir el número de pasajeros.")
+    
+    while True:
+        print("\n" + "─" * 70)
+        print("📝 INGRESO DE DATOS")
+        print("─" * 70)
+        
+        try:
+            # Selección de ciudad
+            print("\n📍 CIUDADES DISPONIBLES:")
+            ciudades = le_ciudad.classes_
+            for i, ciudad in enumerate(ciudades, 1):
+                print(f"  {i}. {ciudad}")
+            
+            while True:
+                try:
+                    ciudad_idx = int(input(f"\n👉 Selecciona ciudad (1-{len(ciudades)}): ")) - 1
+                    if 0 <= ciudad_idx < len(ciudades):
+                        ciudad = ciudades[ciudad_idx]
+                        break
+                    else:
+                        print(f"❌ Opción inválida. Debe ser entre 1 y {len(ciudades)}.")
+                except ValueError:
+                    print("❌ Por favor ingresa un número válido.")
+            
+            # Selección de sistema
+            print("\n🚌 SISTEMAS DE TRANSPORTE DISPONIBLES:")
+            sistemas = le_sistema.classes_
+            for i, sistema in enumerate(sistemas, 1):
+                print(f"  {i}. {sistema}")
+            
+            while True:
+                try:
+                    sistema_idx = int(input(f"\n👉 Selecciona sistema (1-{len(sistemas)}): ")) - 1
+                    if 0 <= sistema_idx < len(sistemas):
+                        sistema = sistemas[sistema_idx]
+                        break
+                    else:
+                        print(f"❌ Opción inválida. Debe ser entre 1 y {len(sistemas)}.")
+                except ValueError:
+                    print("❌ Por favor ingresa un número válido.")
+            
+            # Datos numéricos
+            print("\n📊 DATOS OPERACIONALES:")
+            print("─" * 70)
+            
+            while True:
+                try:
+                    variacion = float(input("👉 Variación Transmilenio (-1.0 a 1.0, ej: -0.7): "))
+                    if -1.0 <= variacion <= 1.0:
+                        break
+                    else:
+                        print("❌ La variación debe estar entre -1.0 y 1.0")
+                except ValueError:
+                    print("❌ Por favor ingresa un número decimal válido (usa punto, no coma).")
+            
+            while True:
+                try:
+                    pasajeros_laboral = int(input("👉 Pasajeros día típico laboral (ej: 3860061): "))
+                    if pasajeros_laboral > 0:
+                        break
+                    else:
+                        print("❌ Debe ser un número positivo.")
+                except ValueError:
+                    print("❌ Por favor ingresa un número entero válido.")
+            
+            while True:
+                try:
+                    pasajeros_sabado = int(input("👉 Pasajeros día sábado (ej: 2499019): "))
+                    if pasajeros_sabado > 0:
+                        break
+                    else:
+                        print("❌ Debe ser un número positivo.")
+                except ValueError:
+                    print("❌ Por favor ingresa un número entero válido.")
+            
+            while True:
+                try:
+                    pasajeros_festivo = int(input("👉 Pasajeros día festivo (ej: 1188607): "))
+                    if pasajeros_festivo > 0:
+                        break
+                    else:
+                        print("❌ Debe ser un número positivo.")
+                except ValueError:
+                    print("❌ Por favor ingresa un número entero válido.")
+            
+            # Día de la semana
+            print("\n📅 DÍA DE LA SEMANA:")
+            print("  1=Lunes | 2=Martes | 3=Miércoles | 4=Jueves")
+            print("  5=Viernes | 6=Sábado | 7=Domingo")
+            
+            while True:
+                try:
+                    dia_semana = int(input("\n👉 Selecciona día (1-7): "))
+                    if 1 <= dia_semana <= 7:
+                        break
+                    else:
+                        print("❌ Debe ser un número entre 1 y 7.")
+                except ValueError:
+                    print("❌ Por favor ingresa un número válido.")
+            
+            # Fecha
+            print("\n📆 FECHA DE PREDICCIÓN:")
+            fecha_valida = False
+            while not fecha_valida:
+                try:
+                    año = int(input("👉 Año (ej: 2024): "))
+                    mes = int(input("👉 Mes (1-12): "))
+                    dia = int(input("👉 Día (1-31): "))
+                    
+                    # Validar fecha
+                    datetime(año, mes, dia)
+                    fecha_valida = True
+                except ValueError:
+                    print("❌ Fecha inválida. Intenta de nuevo.")
+            
+            # ================================================================
+            # REALIZAR PREDICCIÓN
+            # ================================================================
+            
+            print("\n" + "─" * 70)
+            print("⚙️  Procesando predicción...")
+            print("─" * 70)
+            
+            # Preparar datos
+            ciudad_encoded = le_ciudad.transform([ciudad])[0]
+            sistema_encoded = le_sistema.transform([sistema])[0]
+            
+            input_features = np.array([[
+                ciudad_encoded,
+                sistema_encoded,
+                variacion,
+                pasajeros_laboral,
+                pasajeros_sabado,
+                pasajeros_festivo,
+                dia_semana,
+                año,
+                mes,
+                dia
+            ]])
+            
+            input_scaled = scaler.transform(input_features)
+            
+            # Predicciones
+            pred_rf = rf_model.predict(input_scaled)[0]
+            pred_gb = gb_model.predict(input_scaled)[0]
+            pred_promedio = (pred_rf + pred_gb) / 2
+            
+            # ================================================================
+            # MOSTRAR RESULTADOS
+            # ================================================================
+            
+            print("\n" + "=" * 70)
+            print("📊 RESULTADOS DE LA PREDICCIÓN")
+            print("=" * 70)
+            
+            # Resumen de entrada
+            print("\n📋 RESUMEN DE DATOS INGRESADOS:")
+            print("─" * 70)
+            print(f"  🏙️  Ciudad:                   {ciudad}")
+            print(f"  🚌 Sistema:                   {sistema}")
+            print(f"  📉 Variación Transmilenio:    {variacion:.3f}")
+            print(f"  👔 Pasajeros día laboral:     {pasajeros_laboral:>12,}")
+            print(f"  🛍️  Pasajeros sábado:          {pasajeros_sabado:>12,}")
+            print(f"  🎉 Pasajeros festivo:         {pasajeros_festivo:>12,}")
+            
+            dias_texto = {
+                1: 'Lunes', 2: 'Martes', 3: 'Miércoles', 4: 'Jueves',
+                5: 'Viernes', 6: 'Sábado', 7: 'Domingo'
+            }
+            print(f"  📅 Día de la semana:          {dias_texto[dia_semana]}")
+            print(f"  📆 Fecha:                     {dia:02d}/{mes:02d}/{año}")
+            
+            # Predicciones
+            print("\n🎯 PREDICCIONES DE PASAJEROS:")
+            print("─" * 70)
+            print(f"  🌲 Random Forest:             {pred_rf:>12,.0f} pasajeros")
+            print(f"  🚀 Gradient Boosting:         {pred_gb:>12,.0f} pasajeros")
+            print(f"  📊 Promedio (recomendado):    {pred_promedio:>12,.0f} pasajeros")
+            
+            # Análisis de confianza
+            diff_percent = abs(pred_rf - pred_gb) / pred_promedio * 100
+            print(f"\n📈 ANÁLISIS DE CONFIANZA:")
+            print("─" * 70)
+            print(f"  Diferencia entre modelos: {diff_percent:.2f}%")
+            
+            if diff_percent < 3:
+                print("  ✅ Excelente: Ambos modelos están muy alineados.")
+                print("  🎯 Nivel de confianza: MUY ALTO")
+            elif diff_percent < 7:
+                print("  ✅ Bueno: Diferencia aceptable entre modelos.")
+                print("  🎯 Nivel de confianza: ALTO")
+            elif diff_percent < 15:
+                print("  ⚠️  Moderado: Hay variación entre los modelos.")
+                print("  🎯 Nivel de confianza: MEDIO")
+            else:
+                print("  ❌ Significativo: Gran diferencia entre modelos.")
+                print("  🎯 Nivel de confianza: BAJO")
+                print("  💡 Considera revisar los datos ingresados.")
+            
+            # Rangos de predicción
+            print(f"\n📊 RANGO DE PREDICCIÓN:")
+            print("─" * 70)
+            rango_min = min(pred_rf, pred_gb)
+            rango_max = max(pred_rf, pred_gb)
+            print(f"  Mínimo esperado: {rango_min:>12,.0f} pasajeros")
+            print(f"  Máximo esperado: {rango_max:>12,.0f} pasajeros")
+            print(f"  Rango total:     {rango_max - rango_min:>12,.0f} pasajeros")
+            
+            print("\n" + "=" * 70)
+            
+        except KeyboardInterrupt:
+            print("\n\n👋 Predicción cancelada por el usuario.")
+            break
+        except Exception as e:
+            print(f"\n❌ Error durante la predicción: {e}")
+            print("💡 Por favor verifica los datos ingresados e intenta nuevamente.")
+            continue
+        
+        # Preguntar si desea hacer otra predicción
+        print("\n" + "─" * 70)
+        while True:
+            otra = input("¿Deseas hacer otra predicción? (s/n): ").lower().strip()
+            if otra in ['s', 'si', 'sí', 'n', 'no']:
+                break
+            print("❌ Por favor responde 's' o 'n'")
+        
+        if otra not in ['s', 'si', 'sí']:
+            print("\n" + "=" * 70)
+            print("👋 ¡Gracias por usar el sistema de predicción!")
+            print("=" * 70)
+            break
+
+# ============================================================================
+# PROGRAMA PRINCIPAL
+# ============================================================================
+
+def main():
+    """Función principal del programa"""
+    
+    # Cargar modelos
+    rf_model, gb_model, scaler, le_ciudad, le_sistema = cargar_modelos()
+    
+    # Iniciar sistema de predicción
+    hacer_prediccion_consola(rf_model, gb_model, scaler, le_ciudad, le_sistema)
+    
+    print("\n🎉 PROGRAMA FINALIZADO")
+    print("\n💡 También puedes usar la aplicación web ejecutando:")
+    print("   streamlit run app.py\n")
+
+if __name__ == "__main__":
+    main()
